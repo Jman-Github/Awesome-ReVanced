@@ -71,7 +71,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟡[BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
 - 🟡[andronedev](https://github.com/andronedev/revanced-patches)
 - 🟡[1fexd](https://github.com/1fexd/revanced-patches)
-- 🟡[1fexd](https://github.com/pufferffish/revanced-patches-repo)
+- 🟡[pufferffish](https://github.com/pufferffish/revanced-patches-repo)
 - 🟡[xrogers](https://github.com/xrogers/revanced-patches-galaxy)
 
 ## 📚 Resources
