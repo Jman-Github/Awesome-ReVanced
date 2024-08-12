@@ -26,7 +26,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 📥 = Archived
 
 ## ✅ Official
-- [Github Profile](https://github.com/ReVanced)
+- 🟢[Github Profile](https://github.com/ReVanced)
 - 🟢[Website](https://revanced.app/)
     - [Website Source](https://github.com/ReVanced/revanced-website)
 - 🟡[X](https://x.com/revancedapp)
