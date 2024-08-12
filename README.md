@@ -11,10 +11,10 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
  - Go through the Content Menu
 
 # 📝 Content Menu
-- [Official](#official) *Official ReVanced made projects, resources & patches*
-- [Patches](#patches) *ReVanced patch & integration repositories*
-- [Resources](#resources) *Documentation and information*
-- [Projects](#projects) *Community-created projects related to ReVanced*
+- [Official](https://github.com/Jman-Github/Awesome-ReVanced?tab=readme-ov-file#-official) *Official ReVanced made projects, resources & patches*
+- [Patches](https://github.com/Jman-Github/Awesome-ReVanced?tab=readme-ov-file#-patches) *ReVanced patch & integration repositories*
+- [Resources](https://github.com/Jman-Github/Awesome-ReVanced?tab=readme-ov-file#-resources) *Documentation and information*
+- [Projects](https://github.com/Jman-Github/Awesome-ReVanced?tab=readme-ov-file#-projects) *Community-created projects related to ReVanced*
 
 # 🔑 Key
 🟢 = Active
