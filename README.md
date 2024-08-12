@@ -26,7 +26,7 @@ A curated list of awesome ReVanced [patches](#patches), [resources](#resources) 
 📥 = Archived
 
 ## ✅ Official
-#### - [Github Profile](https://github.com/ReVanced)
+- [Github Profile](https://github.com/ReVanced)
 - 🟢[Website](https://revanced.app/)
     - [Website Source](https://github.com/ReVanced/revanced-website)
 - 🟡[X](https://x.com/revancedapp)
@@ -71,7 +71,7 @@ A curated list of awesome ReVanced [patches](#patches), [resources](#resources) 
 - 🟡[BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
 - 🟡[andronedev](https://github.com/andronedev/revanced-patches)
 - 🟡[1fexd](https://github.com/1fexd/revanced-patches)
-- 🟡[1fexd](https://github.com/pufferffish/revanced-patches-repo
+- 🟡[1fexd](https://github.com/pufferffish/revanced-patches-repo)
 - 🟡[xrogers](https://github.com/xrogers/revanced-patches-galaxy)
 
 # 📚 Resources
