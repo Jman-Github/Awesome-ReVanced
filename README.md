@@ -4,7 +4,7 @@
 *Continuing the legacy of Vanced*
 
 # ❓ About
-A curated list of awesome ReVanced [patches](#patches), [resources](#resources) and [projects](#projects)! Do not be afraid to create a [issue](https://github.com/Jman-Github/awesome-revanced/issues) if you have any suggestions, questions or concerns for Awesome-ReVanced.
+A curated list of awesome ReVanced [patches](##patches), [resources](##resources) and [projects](##projects)! Do not be afraid to create a [issue](https://github.com/Jman-Github/awesome-revanced/issues) if you have any suggestions, questions or concerns for Awesome-ReVanced.
 
 # 📋 How to Use
  - Press command/ctrl + F to search for a keyword
