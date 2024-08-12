@@ -4,7 +4,7 @@
 *Continuing the legacy of Vanced*
 
 # ❓ About
-A curated list of awesome ReVanced [patches](##patches), [resources](##resources) and [projects](##projects)! Do not be afraid to create a [issue](https://github.com/Jman-Github/awesome-revanced/issues) if you have any suggestions, questions or concerns for Awesome-ReVanced.
+A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awesome-ReVanced?tab=readme-ov-file#-patches), [resources](https://github.com/Jman-Github/Awesome-ReVanced?tab=readme-ov-file#-resources) and [projects](https://github.com/Jman-Github/Awesome-ReVanced?tab=readme-ov-file#-projects)! Do not be afraid to create a [issue](https://github.com/Jman-Github/awesome-revanced/issues) if you have any suggestions, questions or concerns for Awesome-ReVanced.
 
 # 📋 How to Use
  - Press command/ctrl + F to search for a keyword
@@ -74,7 +74,7 @@ A curated list of awesome ReVanced [patches](##patches), [resources](##resources
 - 🟡[1fexd](https://github.com/pufferffish/revanced-patches-repo)
 - 🟡[xrogers](https://github.com/xrogers/revanced-patches-galaxy)
 
-# 📚 Resources
+## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
     - [Telegram](https://t.me/ReVanced_MMT)
 - 🟢[Database](https://github.com/Sappurit/Revanced-Database)
@@ -82,7 +82,7 @@ A curated list of awesome ReVanced [patches](##patches), [resources](##resources
 - 🟢[Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 0 🟢[Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
 
-# 🔨 Projects
+## 🔨 Projects
 - 🟢[RVX Builder](https://github.com/inotia00/rvx-builder)
 - 🟢[RVX Manager](https://github.com/inotia00/revanced-manager)
 - 🟢[Magisk Module](https://github.com/j-hc/revanced-magisk-module)
