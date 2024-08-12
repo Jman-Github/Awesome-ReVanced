@@ -1,21 +1,28 @@
 # 💊 Awesome ReVanced
-**ReVanced, *continuing the legacy of Vanced***
+![image](https://github.com/user-attachments/assets/6db04751-77f4-449f-b0c0-9d4c475fcaf2)
+
+*Continuing the legacy of Vanced*
 
 # ❓ About
-A curated list of awesome ReVanced [patches](#patches), [resources](#resources) and #[projects](#projects)! Do not be afraid to create a [issue](https://github.com/Jman-Github/awesome-revanced/issues) if you have any suggestions, questions or concerns for Awesome-ReVanced.
+A curated list of awesome ReVanced [patches](#patches), [resources](#resources) and [projects](#projects)! Do not be afraid to create a [issue](https://github.com/Jman-Github/awesome-revanced/issues) if you have any suggestions, questions or concerns for Awesome-ReVanced.
 
 # 📋 How to Use
  - Press command/ctrl + F to search for a keyword
  - Go through the Content Menu
 
+# 📝 Content Menu
 - [Official](#official) *Official ReVanced made projects, resources & patches*
 - [Patches](#patches) *ReVanced patch & integration repositories*
 - [Resources](#resources) *Documentation and information*
 - [Projects](#projects) *Community-created projects related to ReVanced*
+
 # 🔑 Key
 🟢 = Active
+
 🟡 = Inactive
+
 🔴 = No longer updated
+
 📥 = Archived
 
 ## ✅ Official
