@@ -68,7 +68,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
     - [Integrations](https://github.com/BiliRoamingX/BiliRoamingX/tree/main/integrations)
 - 🟡[Wyse-](https://github.com/Wyse-/revanced-patches)
-- 🟡[BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
+- 🟢[BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
 - 🟡[andronedev](https://github.com/andronedev/revanced-patches)
 - 🟡[1fexd](https://github.com/1fexd/revanced-patches)
 - 🟡[pufferffish](https://github.com/pufferffish/revanced-patches-repo)
