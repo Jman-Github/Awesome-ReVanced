@@ -80,7 +80,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Database](https://github.com/Sappurit/Revanced-Database)
 - 🟢[Extended Documentation](https://github.com/inotia00/revanced-documentation)
 - 🟢[Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
-0 🟢[Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
+- 🟢[Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
 
 ## 🔨 Projects
 - 🟢[RVX Builder](https://github.com/inotia00/rvx-builder)
