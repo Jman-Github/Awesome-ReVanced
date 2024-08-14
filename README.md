@@ -35,7 +35,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Telegram](https://t.me/app_revanced)
 - 🟢[YouTube](https://www.youtube.com/@ReVanced)
 - 🟢[Patches](https://github.com/revanced/revanced-patches)
-- 🟢[Integrations](https://github.com/revanced/revanced-integrations)
+    - [Integrations](https://github.com/revanced/revanced-integrations)
 - 🟢[Manager](https://github.com/revanced/revanced-manager)
 - 🟢[Compose Manager](https://github.com/ReVanced/revanced-manager/tree/compose-dev)
 - 🟢[CLI](https://github.com/revanced/revanced-cli)
