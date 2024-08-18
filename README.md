@@ -73,6 +73,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟡[1fexd](https://github.com/1fexd/revanced-patches)
 - 🟡[pufferffish](https://github.com/pufferffish/revanced-patches-repo)
 - 🔴[xrogers](https://github.com/xrogers/revanced-patches-galaxy)
+- 🔴[Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
 
 ## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
@@ -81,6 +82,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Extended Documentation](https://github.com/inotia00/revanced-documentation)
 - 🟢[Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢[Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
+- 🟢[More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
 
 ## 🔨 Projects
 - 🟢[RVX Builder](https://github.com/inotia00/rvx-builder)
@@ -97,3 +99,4 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[RVX APKS](https://github.com/krvstek/rvx-apks)
 - 🟢[LeddaZ](https://github.com/LeddaZ/revanced-repo)
     - [App](https://github.com/LeddaZ/ReVancedUpdater)
+- 🟢[ReVanced Actions Builder Template](https://github.com/elliottophellia/revanced-actions-builder)
