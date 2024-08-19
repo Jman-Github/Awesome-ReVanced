@@ -74,6 +74,10 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟡[pufferffish](https://github.com/pufferffish/revanced-patches-repo)
 - 🔴[xrogers](https://github.com/xrogers/revanced-patches-galaxy)
 - 🔴[Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
+- 🟡[d4n3436](https://github.com/d4n3436/revanced-patches-android5)
+    - [Integrations](https://github.com/d4n3436/revanced-integrations)
+- 🟡[kitadai31 ](https://github.com/kitadai31/revanced-patches-android6-7)
+    - [Integrations](https://github.com/kitadai31/revanced-integrations)
 
 ## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
@@ -100,3 +104,5 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[LeddaZ](https://github.com/LeddaZ/revanced-repo)
     - [App](https://github.com/LeddaZ/ReVancedUpdater)
 - 🟢[ReVanced Actions Builder Template](https://github.com/elliottophellia/revanced-actions-builder)
+- 🟡[RVX GmsCore](https://github.com/YT-Advanced/GmsCorehttps://github.com/YT-Advanced/GmsCore)
+- 🟢[RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
