@@ -106,3 +106,4 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[ReVanced Actions Builder Template](https://github.com/elliottophellia/revanced-actions-builder)
 - 🟡[RVX GmsCore](https://github.com/YT-Advanced/GmsCorehttps://github.com/YT-Advanced/GmsCore)
 - 🟢[RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
+- 🟡[RV Web Manager](https://github.com/exconvinced/revanced-web-app)
