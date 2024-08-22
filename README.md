@@ -78,6 +78,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
     - [Integrations](https://github.com/d4n3436/revanced-integrations)
 - 🟡[kitadai31 ](https://github.com/kitadai31/revanced-patches-android6-7)
     - [Integrations](https://github.com/kitadai31/revanced-integrations)
+- 🔴[ayushTNM](https://github.com/ayushTNM/gmscore-patches)
 
 ## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
@@ -107,3 +108,4 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟡[RVX GmsCore](https://github.com/YT-Advanced/GmsCorehttps://github.com/YT-Advanced/GmsCore)
 - 🟢[RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🟡[RV Web Manager](https://github.com/exconvinced/revanced-web-app)
+- 🟢[GmsCore RE](https://github.com/WSTxda/MicroG-RE)
