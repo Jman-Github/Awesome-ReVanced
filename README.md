@@ -89,6 +89,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢[Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
 - 🟢[More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
+- 🟡[Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
 
 ## 🔨 Projects
 - 🟢[RVX Builder](https://github.com/inotia00/rvx-builder)
@@ -111,3 +112,5 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟡[RV Web Manager](https://github.com/exconvinced/revanced-web-app)
 - 🟢[GmsCore RE](https://github.com/WSTxda/MicroG-RE)
 - 🟡[RVX CLI Arsclib](https://github.com/inotia00/revanced-cli-arsclib)
+- 🟢[RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
+- 🟢[RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
