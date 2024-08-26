@@ -115,3 +115,5 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
 - 🟢[RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
 - 🔴[Prevanced Manager](https://github.com/prevanced/prevanced-manager)
+- 🟢[ReVanced APKS](https://github.com/revanced-apks/build-apps)
+- 🟡[AT-YT](https://github.com/Zenlua/AT-YT)
