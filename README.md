@@ -114,3 +114,4 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟡[RVX CLI Arsclib](https://github.com/inotia00/revanced-cli-arsclib)
 - 🟢[RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
 - 🟢[RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
+- 🔴[Prevanced Manager](https://github.com/prevanced/prevanced-manager)
