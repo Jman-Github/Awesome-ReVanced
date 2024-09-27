@@ -79,7 +79,8 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟡[kitadai31 ](https://github.com/kitadai31/revanced-patches-android6-7)
     - [Integrations](https://github.com/kitadai31/revanced-integrations)
 - 🔴[ayushTNM](https://github.com/ayushTNM/gmscore-patches)
-- 🟢[inotia00 arsclib](https://github.com/inotia00/revanced-patches-arsclib)
+- 🟢[inotia00-arsclib](https://github.com/inotia00/revanced-patches-arsclib)
+- 🟢[lennyRBLX-patches](https://github.com/lennyRBLX/apk-patches)
 
 ## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
