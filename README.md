@@ -52,7 +52,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 ## 🩹 Patches
 - 🟢[Anddea](https://github.com/anddea/revanced-patches)
     - [Integrations](https://github.com/anddea/revanced-integrations)
-- 🟡[Aunali321](https://github.com/Aunali321/ReVancedExperiments)
+- 🟢[Aunali321](https://github.com/Aunali321/ReVancedExperiments)
 - 🟢[Piko](https://github.com/crimera/piko)
     - [Integrations](https://github.com/crimera/revanced-integrations)
 - 🟢[jkennethcarino](https://github.com/jkennethcarino/privacy-revanced-patches)
@@ -80,7 +80,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
     - [Integrations](https://github.com/kitadai31/revanced-integrations)
 - 🔴[ayushTNM](https://github.com/ayushTNM/gmscore-patches)
 - 🟢[inotia00-arsclib](https://github.com/inotia00/revanced-patches-arsclib)
-- 🟢[lennyRBLX-patches](https://github.com/lennyRBLX/apk-patches)
+- 🟡[lennyRBLX-patches](https://github.com/lennyRBLX/apk-patches)
 
 ## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
