@@ -104,6 +104,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Obtainium Auto Update](https://rentry.co/revanced-auto-update)
 - 🟢[Revancify](https://github.com/decipher3114/Revancify)
 - 🟢[ReVanced Creator](https://github.com/XDream8/revanced-creator)
+- 🟢[RVX APKS](https://github.com/krvstek/rvx-apks)
 - 🟢[RVX APKs (by LeddaZ)](https://github.com/LeddaZ/revanced-repo)
     - [App](https://github.com/LeddaZ/ReVancedUpdater)
 - 🟢[ReVanced Actions Builder Template](https://github.com/elliottophellia/revanced-actions-builder)
