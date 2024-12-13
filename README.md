@@ -48,7 +48,6 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Library](https://github.com/ReVanced/revanced-library)
 - 🟡[Web Manager](https://github.com/ReVanced/revanced-web-manager)
 
-
 ## 🩹 Patches
 - 🟢[Anddea](https://github.com/anddea/revanced-patches)
     - [Integrations](https://github.com/anddea/revanced-integrations)
@@ -82,6 +81,9 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[inotia00-arsclib](https://github.com/inotia00/revanced-patches-arsclib)
 - 🟡[lennyRBLX-patches](https://github.com/lennyRBLX/apk-patches)
 - 🟢[Brosssh-patches](https://github.com/Brosssh/revanced-patches)
+- 🟢[korhelyleves-patches](https://github.com/korhelyleves/revanced-patches)
+- 🟡[Taknok-patches](https://github.com/Taknok/revanced-patches)
+- 🔴[pufferffish-patches](https://github.com/pufferffish/revanced-patches-repo)
 
 ## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
@@ -91,6 +93,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢[Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
 - 🟢[More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
+- 🟡[ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
 - 🟡[Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
 
 ## 🔨 Projects
