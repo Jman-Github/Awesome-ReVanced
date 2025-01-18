@@ -21,7 +21,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 
 🟡 = Inactive
 
-🔴 = No longer updated
+🔴 = Very inactive / no longer upated
 
 📥 = Archived
 
