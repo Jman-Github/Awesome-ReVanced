@@ -81,7 +81,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[lennyRBLX-patches](https://github.com/lennyRBLX/apk-patches)
 - 🟢[Brosssh-patches](https://github.com/Brosssh/revanced-patches)
 - 🟡[korhelyleves-patches](https://github.com/korhelyleves/revanced-patches)
-- 🟡[Taknok-patches](https://github.com/Taknok/revanced-patches)
+- 🟢[Taknok-patches](https://github.com/Taknok/revanced-patches)
 - 🔴[pufferffish-patches](https://github.com/pufferffish/revanced-patches-repo)
 - 🟢[BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 
