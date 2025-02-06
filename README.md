@@ -54,7 +54,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Aunali321](https://github.com/Aunali321/ReVancedExperiments)
 - 🟢[Piko](https://github.com/crimera/piko)
     - [Integrations](https://github.com/crimera/revanced-integrations)
-- 🔴[jkennethcarino](https://github.com/jkennethcarino/privacy-revanced-patches)
+- 🟢[jkennethcarino](https://github.com/jkennethcarino/privacy-revanced-patches)
     - [Integrations](https://github.com/jkennethcarino/privacy-revanced-integrations)
 - 🔴[YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - [Integrations](https://github.com/YT-Advanced/ReX-integrations)
@@ -67,7 +67,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 📥[BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 - 🟢[BiliRoamingM](https://github.com/sakarie9/BiliRoamingM)
 - 🔴[Wyse-](https://github.com/Wyse-/revanced-patches)
-- 🟡[BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
+- 🔴[BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
 - 🔴[andronedev](https://github.com/andronedev/revanced-patches)
 - 🔴[1fexd](https://github.com/1fexd/revanced-patches)
 - 🔴[pufferffish](https://github.com/pufferffish/revanced-patches-repo)
@@ -93,7 +93,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢[Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
 - 🟢[More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
-- 🟡[ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
+- 🔴[ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
 - 🔴[Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
 
 ## 🔨 Projects
