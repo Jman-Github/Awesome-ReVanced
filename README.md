@@ -84,6 +84,8 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Taknok-patches](https://github.com/Taknok/revanced-patches)
 - 🔴[pufferffish-patches](https://github.com/pufferffish/revanced-patches-repo)
 - 🟢[BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
+- 🟢[Faith001-patches](https://github.com/Faith001/revanced-molten-glass)
+- 🟡[forsyth47](https://github.com/forsyth47/revanced-patches)
 
 ## 📚 Resources
 - 🟢[Kazimmt](https://kazimmt.github.io)
