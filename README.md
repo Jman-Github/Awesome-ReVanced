@@ -86,7 +86,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
     - [Integrations](https://github.com/d4n3436/revanced-integrations)
 - 🔴[ayushTNM](https://github.com/ayushTNM/gmscore-patches)
 - 🔴[inotia00-arsclib](https://github.com/inotia00/revanced-patches-arsclib)
-- 🔴[pufferffish](https://github.com/pufferffish/revanced-patches-repo)
+- 🔴[whyvl](https://github.com/whyvl/revanced-patches-repo)
 - 📥[IndusAryan](https://github.com/IndusAryan/twitter-patches)
 - 📥[BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 
