@@ -47,8 +47,8 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Library](https://github.com/ReVanced/revanced-library)
 - 🟢[Manager Plugin Template](https://github.com/ReVanced/revanced-manager-downloader-template)
 - 🟢[Manager Apkmirror Plugin](https://github.com/ReVanced/revanced-manager-apkmirror-downloader)
-- 🟡[Web Manager](https://github.com/ReVanced/revanced-web-manager)
-- 🟡[GmsCore](https://github.com/ReVanced/GmsCore)
+- 🔴[Web Manager](https://github.com/ReVanced/revanced-web-manager)
+- 🔴[GmsCore](https://github.com/ReVanced/GmsCore)
 
 ## 🩹 Patches
 - 🟢[inotia00](https://github.com/inotia00/revanced-Patches)
@@ -116,8 +116,8 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[RVX Builder](https://github.com/inotia00/rvx-builder)
 - 🟡[ReVanced Actions Builder Template](https://github.com/elliottophellia/revanced-actions-builder)
 - 🟡[RVX Manager](https://github.com/inotia00/revanced-manager)
-- 🟡[RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
 - 🟡[AT-YT](https://github.com/Zenlua/AT-YT)
+- 🔴[RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
 - 🔴[RVX GmsCore](https://github.com/YT-Advanced/GmsCore)
 - 🔴[RV Web Manager](https://github.com/exconvinced/revanced-web-app)
 - 🔴[RVX CLI Arsclib](https://github.com/inotia00/revanced-cli-arsclib)
