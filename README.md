@@ -67,7 +67,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[wchill](https://github.com/wchill/revanced-patches)
 - 🟢[Faith001](https://github.com/Faith001/revanced-molten-glass)
 - 🟢[Taknok](https://github.com/Taknok/revanced-patches)
-- 🟡[Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
+- 🟢[Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
 - 🟡[indrastorms](https://github.com/indrastorms/Dropped-Patches)
 - 🟡[Brosssh](https://github.com/Brosssh/revanced-patches)
 - 🟡[korhelyleves](https://github.com/korhelyleves/revanced-patches)
