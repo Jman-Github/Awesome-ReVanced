@@ -67,6 +67,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
 - 🟢[JeffJankowski](https://github.com/JeffJankowski/revanced-custom-patches)
 - 🟢[indrastorms](https://github.com/indrastorms/Dropped-Patches)
+- 🟢[hoo-dles](https://github.com/hoo-dles/revanced-custom-patches)
 - 🟡[Aunali321](https://github.com/Aunali321/ReVancedExperiments)
 - 🟡[lennyRBLX](https://github.com/lennyRBLX/apk-patches)
 - 🟡[forsyth47](https://github.com/forsyth47/revanced-patches)
