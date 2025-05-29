@@ -122,6 +122,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged)
 - 🟢[Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
 - 🟢[JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
+- 🟢[Aunali321 Manager Plugins](https://github.com/Aunali321/revanced-downloader-plugins)
 - 🟡[ReVanced Actions Builder Template](https://github.com/elliottophellia/revanced-actions-builder)
 - 🟡[RVX Manager](https://github.com/inotia00/revanced-manager)
 - 🟡[RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
