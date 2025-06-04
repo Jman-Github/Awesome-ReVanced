@@ -71,6 +71,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Brosssh](https://github.com/Brosssh/revanced-patches)
 - 🟢[Aunali321](https://github.com/Aunali321/ReVancedExperiments)
 - 🟢[scrazzz](https://github.com/scrazzz/my-revanced-patches)
+- 🟢[sticknode (vinceTheProgrammer)](https://github.com/vinceTheProgrammer/sticknodes-patches)
 - 🟡[lennyRBLX](https://github.com/lennyRBLX/apk-patches)
 - 🟡[forsyth47](https://github.com/forsyth47/revanced-patches)
 - 🟡[Faith001](https://github.com/Faith001/revanced-molten-glass)
