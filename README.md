@@ -47,6 +47,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[Library](https://github.com/ReVanced/revanced-library)
 - 🟢[Manager Plugin Template](https://github.com/ReVanced/revanced-manager-downloader-template)
 - 🟢[Manager Apkmirror Plugin](https://github.com/ReVanced/revanced-manager-apkmirror-downloader)
+- 🔴[Manager Playstore Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
 - 🔴[Web Manager](https://github.com/ReVanced/revanced-web-manager)
 - 🔴[GmsCore](https://github.com/ReVanced/GmsCore)
 
