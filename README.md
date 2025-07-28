@@ -128,6 +128,7 @@ A curated list of awesome ReVanced [patches](https://github.com/Jman-Github/Awes
 - 🟢[RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🟢[RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
 - 🟢[ReVanced Builder (Powershell)](https://github.com/farag2/ReVanced-Builder)
+- 🟢[Auto Built ReVanced Apps](https://github.com/elliottophellia/revanced)
 - 🟡[RVX Builder](https://github.com/inotia00/rvx-builder)
 - 🟡[JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
 - 🔴[Obtainium Auto Update](https://rentry.co/revanced-auto-update)
