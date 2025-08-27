@@ -129,7 +129,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Elliottophellia ReVanced App Builds](https://github.com/elliottophellia/revanced)
 - 🟢 **Active:** [NoName‑exe's RVX App Builds](https://github.com/NoName-exe/revanced-extended)
 - 🟢 **Active:** [FiorenMas ReVanced App Builds](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root)
-- 🟢 **Active:** [Peternmuller Obtainium ReVanced App Builds]
+- 🟢 **Active:** [Peternmuller Obtainium ReVanced App Builds](https://github.com/peternmuller/revanced-builder)
 - 🟡 **Partially maintained:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
 - 🟡 **Partially maintained:** [RVX Builder](https://github.com/inotia00/rvx-builder)
 - 🔴 **Inactive:** [Obtainium Auto Update](https://rentry.co/revanced-auto-update)
