@@ -70,6 +70,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [ayushTNM](https://github.com/ayushTNM/gmscore-patches)
 - 🟢 **Active:** [indrastorms](https://github.com/indrastorms/Dropped-Patches)
 - 🟢 **Active:** [wchill](https://github.com/wchill/revanced-patches)
+- 🟢 **Active:** [nk521](https://github.com/nk521/revanced-patches)
 - 🟡 **Partially maintained:** [BiliRoamingM](https://github.com/sakarie9/BiliRoamingM)
 - 🟡 **Partially maintained:** [Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
 - 🟡 **Partially maintained:** [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
@@ -77,6 +78,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟡 **Partially maintained:** [lennyRBLX](https://github.com/lennyRBLX/apk-patches)
 - 🟡 **Partially maintained:** [forsyth47](https://github.com/forsyth47/revanced-patches)
 - 🟡 **Partially maintained:** [Faith001](https://github.com/Faith001/revanced-molten-glass)
+- 🟡 **Partially maintained:** [kangrio](https://github.com/kangrio/MicroG-Patches-Re)
 - 🔴 **Inactive:** [korhelyleves](https://github.com/korhelyleves/revanced-patches)
 - 🔴 **Inactive:** [Rufusin](https://github.com/rufusin/revanced-patches)
     - 🔴 **Inactive:** [Integrations](https://github.com/rufusin/revanced-integrations)
@@ -88,9 +90,11 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🔴 **Inactive:** [d4n3436](https://github.com/d4n3436/revanced-patches-android5)
     - 🔴 **Inactive:** [Integrations](https://github.com/d4n3436/revanced-integrations)
 - 🔴 **Inactive:** [inotia00-arsclib](https://github.com/inotia00/revanced-patches-arsclib)
-- 🔴 **Inactive:** [whyvl](https://github.com/whyvl/revanced-patches-repo)
+- 🔴 **Inactive:** [whyvl](https://github.com/Hepolise/LuckyToolPatches)
+- 🔴 **Inactive:** [Hepolise](https://github.com/whyvl/revanced-patches-repo)
 - 📥 **Archived:** [IndusAryan](https://github.com/IndusAryan/twitter-patches)
 - 📥 **Archived:** [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
+- 📥 **Archived:** [Kitadai31's Pyoncord Patches](https://github.com/kitadai31/PyoncordRevanced-patches)
 
 ## 📚 Resources
 - 🟢 **Active:** [Database](https://github.com/Sappurit/Revanced-Database)
@@ -141,3 +145,4 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 📥 **Archived:** [Auto CLI](https://github.com/taku-nm/auto-cli)
 - 📥 **Archived:** [ReVanced-Builder](https://github.com/reisxd/revanced-builder)
 - 📥 **Archived:** [Prevanced Manager](https://github.com/prevanced/prevanced-manager)
+- 📥 **Archived:** [ReVanced Builder](https://github.com/reisxd/revanced-builder)
