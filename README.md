@@ -145,4 +145,3 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 📥 **Archived:** [Auto CLI](https://github.com/taku-nm/auto-cli)
 - 📥 **Archived:** [ReVanced-Builder](https://github.com/reisxd/revanced-builder)
 - 📥 **Archived:** [Prevanced Manager](https://github.com/prevanced/prevanced-manager)
-- 📥 **Archived:** [ReVanced Builder](https://github.com/reisxd/revanced-builder)
