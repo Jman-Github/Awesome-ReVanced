@@ -72,6 +72,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🟢 **Active:**  [burgers1312](https://github.com/burgers1312/revanced-patches)
+- 🟢 **Active:**  [Tosox](https://github.com/Tosox/revanced-patches)
 - 🟡 **Partially maintained:** [BiliRoamingM](https://github.com/sakarie9/BiliRoamingM)
 - 🟡 **Partially maintained:** [Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
 - 🟡 **Partially maintained:** [lennyRBLX](https://github.com/lennyRBLX/apk-patches)
