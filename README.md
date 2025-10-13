@@ -114,6 +114,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
+- 🟢 **Active:** [Universal ReVanced Manager](https://github.com/Jman-Github/universal-revanced-manager)
 - 🟢 **Active:** [GmsCore RE](https://github.com/WSTxda/MicroG-RE)
 - 🟢 **Active:** [Magisk Module](https://github.com/j-hc/revanced-magisk-module)
 - 🟢 **Active:** [Docker Py](https://github.com/nikhilbadyal/docker-py-revanced)
