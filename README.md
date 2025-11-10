@@ -76,6 +76,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [zeldrisho](https://github.com/zeldrisho/revanced-patches)
 - 🟢 **Active:**  [Aunali321](https://github.com/Aunali321/ReVancedExperiments)
 - 🟢 **Active:**  [scrazzz](https://github.com/scrazzz/my-revanced-patches)
+- 🟢 **Active:**  [bawr](https://github.com/bawr/revanced-patches)
 - 🟡 **Partially maintained:** [nk521](https://github.com/nk521/revanced-patches)
 - 🟡 **Partially maintained:** [Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
 - 🟡 **Partially maintained:** [lennyRBLX](https://github.com/lennyRBLX/apk-patches)
