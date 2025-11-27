@@ -147,6 +147,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [ReVanced Web Patcher](https://github.com/Aunali321/revanced-web-patcher-backend)
 - 🟢 **Active:** [Patcher v22 CLI](https://github.com/LisoUseInAIKyrios/revanced-cli)
 - 🟢 **Active:** [Mystery Manager Compose](https://github.com/MarcaDian/Mystery-manager)
+- 🟢 **Active:** [Patcher v22](https://github.com/LisoUseInAIKyrios/revanced-patcher)
 - 🟡 **Partially maintained:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
 - 🔴 **Inactive:** [Obtainium Auto Update](https://rentry.co/revanced-auto-update)
 - 🔴 **Inactive:** [RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
