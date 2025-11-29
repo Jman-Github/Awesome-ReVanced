@@ -81,6 +81,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [AmpleReVanced](https://github.com/AmpleReVanced/revanced-patches)
 - 🟢 **Active:** [LisoUseInAIKyrios](https://github.com/LisoUseInAIKyrios/revanced-patches)
 - 🟢 **Active:** [liaralabs](https://github.com/liaralabs/revanced-patches)
+- 🟢 **Active:** [areteruhiro](https://github.com/areteruhiro/linegms)
 - 🟡 **Partially maintained:** [nk521](https://github.com/nk521/revanced-patches)
 - 🟡 **Partially maintained:** [Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
 - 🟡 **Partially maintained:** [lennyRBLX](https://github.com/lennyRBLX/apk-patches)
