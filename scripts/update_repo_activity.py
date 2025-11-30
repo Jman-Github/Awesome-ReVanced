@@ -30,11 +30,11 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--readme", default="README.md", help="Path to the markdown file to update")
     parser.add_argument("--dry-run", action="store_true", help="Only print changes without writing the file")
-    parser.add_argument("--active-days", type=int, default=60, help="Days since last push to keep repo Active")
+    parser.add_argument("--active-days", type=int, default=120, help="Days since last push to keep repo Active")
     parser.add_argument(
         "--partially-days",
         type=int,
-        default=180,
+        default=240,
         help="Days since last push to keep repo Partially maintained",
     )
     parser.add_argument(
