@@ -23,7 +23,12 @@ STATUS_MAP = {
 }
 
 GITHUB_RE = re.compile(r"https://github\.com/(?P<owner>[\w.-]+)/(?P<repo>[\w.-]+)")
-LINE_RE = re.compile(r"^(?P<prefix>\s*-\s*)(?:\S+\s+)?\*\*[^*]+\*\*:(?P<ws>\s*)(?P<rest>.+)$")
+LINE_RE = re.compile(
+    r"^(?P<prefix>\s*-\s*)(?:(?P<emoji>\S+)\s+)?\*\*(?P<label>[^*]+?)\*\*(?P<ws>\s*)(?P<rest>.+)$"
+)
+TOP_LEVEL_BULLET_RE = re.compile(r"^-\s+")
+SECTION_KEYWORDS = ("official", "patches", "resources", "projects")
+STATUS_ORDER = ("active", "partially", "inactive", "archived")
 
 
 def parse_args() -> argparse.Namespace:
@@ -134,6 +139,91 @@ def iter_repo_lines(lines: Iterable[str]):
             yield idx, line, slug
 
 
+def should_reorder_section(heading_line: str) -> bool:
+    title = heading_line.lstrip("#").strip().lower()
+    return any(keyword in title for keyword in SECTION_KEYWORDS)
+
+
+def reorder_section_lines(body_lines: list[str]) -> list[str]:
+    blocks = []
+    block_ranges = []
+    i = 0
+    while i < len(body_lines):
+        line = body_lines[i]
+        if TOP_LEVEL_BULLET_RE.match(line):
+            start = i
+            j = i + 1
+            while j < len(body_lines):
+                if TOP_LEVEL_BULLET_RE.match(body_lines[j]):
+                    break
+                if body_lines[j].startswith("## "):
+                    break
+                j += 1
+            blocks.append(body_lines[start:j])
+            block_ranges.append((start, j))
+            i = j
+        else:
+            i += 1
+    if not blocks:
+        return body_lines
+    prefix = body_lines[: block_ranges[0][0]]
+    suffix = body_lines[block_ranges[-1][1] :]
+    sorted_blocks = sort_blocks(blocks)
+    flattened = [line for block in sorted_blocks for line in block]
+    return prefix + flattened + suffix
+
+
+def sort_blocks(blocks: list[list[str]]) -> list[list[str]]:
+    buckets = {status: [] for status in STATUS_ORDER}
+    others: list[list[str]] = []
+    for block in blocks:
+        status = determine_block_status(block)
+        if status in buckets:
+            buckets[status].append(block)
+        else:
+            others.append(block)
+    ordered: list[list[str]] = []
+    for status in STATUS_ORDER:
+        ordered.extend(buckets[status])
+    ordered.extend(others)
+    return ordered
+
+
+def determine_block_status(block: list[str]) -> Optional[str]:
+    if not block:
+        return None
+    match = LINE_RE.match(block[0])
+    if not match:
+        return None
+    label = match.group("label").strip().rstrip(":").lower()
+    for key, info in STATUS_MAP.items():
+        if info["label"].lower() == label:
+            return key
+    return None
+
+
+def reorder_sections(lines: list[str]) -> list[str]:
+    new_lines: list[str] = []
+    idx = 0
+    while idx < len(lines):
+        line = lines[idx]
+        if line.startswith("## "):
+            heading = line
+            new_lines.append(heading)
+            idx += 1
+            section_start = idx
+            while idx < len(lines) and not lines[idx].startswith("## "):
+                idx += 1
+            body = lines[section_start:idx]
+            if should_reorder_section(heading):
+                body = reorder_section_lines(body)
+            new_lines.extend(body)
+        else:
+            new_lines.append(line)
+            idx += 1
+    return new_lines
+
+
 def main() -> int:
     args = parse_args()
     logging.basicConfig(level=getattr(logging, args.log_level.upper(), logging.INFO), format="%(levelname)s: %(message)s")
@@ -165,9 +255,15 @@ def main() -> int:
             updates.append((slug, result.status))
             logging.info("Updating %s => %s", slug, result.status)
 
-    if not updates:
+    reordered_lines = reorder_sections(lines)
+    regrouped = reordered_lines != lines
+    lines = reordered_lines
+
+    if not updates and not regrouped:
         logging.info("No updates needed")
         return 0
+    if regrouped:
+        logging.info("Reordered sections to maintain status grouping")
 
     new_contents = "\n".join(lines) + "\n"
 
@@ -176,7 +272,8 @@ def main() -> int:
         return 0
 
     path.write_text(new_contents, encoding="utf-8")
-    logging.info("Updated %s lines", len(updates))
+    if updates:
+        logging.info("Updated %s lines", len(updates))
     return 0
 
 
