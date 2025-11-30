@@ -60,7 +60,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 - 🟢 **Active:** [kitadai31](https://github.com/kitadai31/revanced-patches-android6-7)
 - 🟢 **Active:** [Taknok](https://github.com/Taknok/revanced-patches)
-- 🔴 **Active:** [hoo-dles](https://github.com/hoo-dles/revanced-custom-patches)
+- 🔴 **Inactive:** [hoo-dles](https://github.com/hoo-dles/revanced-custom-patches)
 - 🟢 **Active:** [Brosssh](https://github.com/Brosssh/revanced-patches)
 - 🟢 **Active:** [vinceTheProgrammer](https://github.com/vinceTheProgrammer/sticknodes-patches)
 - 🟢 **Active:** [1fexd](https://github.com/1fexd/revanced-patches)
