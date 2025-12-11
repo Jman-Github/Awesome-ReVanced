@@ -111,12 +111,12 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
     - 🟢 **Active:** [Integrations](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide)
 - 🟢 **Active:** [More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
+- 🟢 **Active:** [Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
+
 - 🔴 **Inactive:** [Kazimmt's Website](https://kazimmt.github.io)
     - 🔴 **Inactive:** [Site Source](https://github.com/kazimmt/kazimmt.github.io)
     - 🔴 **Inactive:** [Telegram](https://t.me/ReVanced_MMT)
 - 🔴 **Inactive:** [ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
-- 🔴 **Inactive:** [Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
-
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
 - 🟢 **Active:** [Universal ReVanced Manager](https://github.com/Jman-Github/universal-revanced-manager)
