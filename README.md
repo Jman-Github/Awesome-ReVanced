@@ -146,6 +146,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Mystery Manager Compose](https://github.com/MarcaDian/Mystery-manager)
 - 🟢 **Active:** [Patcher v22](https://github.com/LisoUseInAIKyrios/revanced-patcher)
 - 🟢 **Active:** [RVX CLI Arsclib](https://github.com/inotia00/revanced-cli-arsclib)
+- 🟢 **Active:** [ReVanced External Bundles](https://github.com/brosssh/revanced-external-bundles)
 - 🟡 **Partially maintained:** [RVX Manager](https://github.com/inotia00/revanced-manager)
 - 🟡 **Partially maintained:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
 - 🟡 **Partially maintained:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
