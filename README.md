@@ -150,7 +150,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [ReVanced External Bundles](https://github.com/brosssh/revanced-external-bundles)
 - 🟡 **Partially maintained:** [RVX Manager](https://github.com/inotia00/revanced-manager)
 - 🟡 **Partially maintained:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
-- 🟡 **Partially maintained:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
+- 🔴 **Inactive:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
 - 🔴 **Inactive:** [Obtainium Auto Update](https://rentry.co/revanced-auto-update)
 - 🔴 **Inactive:** [RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
 - 🔴 **Inactive:** [RVX GmsCore](https://github.com/YT-Advanced/GmsCore)
