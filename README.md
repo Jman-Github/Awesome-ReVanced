@@ -43,7 +43,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Manager Plugin Template](https://github.com/ReVanced/revanced-manager-downloader-template)
 - 🟢 **Active:** [Manager APKMirror Plugin](https://github.com/ReVanced/revanced-manager-apkmirror-downloader)
 - 🟢 **Active:** [Gradle Plugin](https://github.com/ReVanced/revanced-patches-gradle-plugin)
-- 🟡 **Partially maintained:** [API](https://github.com/revanced/revanced-api)
+- 🟢 **Active:** [API](https://github.com/revanced/revanced-api)
 - 🟡 **Partially maintained:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
 - 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
 - 🔴 **Inactive:** [GmsCore](https://github.com/ReVanced/GmsCore)
