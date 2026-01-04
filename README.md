@@ -121,7 +121,6 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
 - 🟢 **Active:** [Universal ReVanced Manager](https://github.com/Jman-Github/universal-revanced-manager)
-- 🟢 **Active:** [GmsCore RE](https://github.com/WSTxda/MicroG-RE)
 - 🟢 **Active:** [Magisk Module](https://github.com/j-hc/revanced-magisk-module)
 - 🟢 **Active:** [Docker Py](https://github.com/nikhilbadyal/docker-py-revanced)
 - 🟢 **Active:** [Piko App Builds](https://github.com/crimera/twitter-apk)
@@ -160,6 +159,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [AmpleReVanced Patcher](https://github.com/AmpleReVanced/revanced-patcher)
 - 🟢 **Active:** [AmpleReVanced API](https://github.com/AmpleReVanced/revanced-api)
 - 🟢 **Active:** [AmpleReVanced CLI](https://github.com/AmpleReVanced/revanced-cli)
+- 🟢 **Active:** [MicroG-RE (MorpheApp)](https://github.com/MorpheApp/MicroG-RE)
 - 🟡 **Partially maintained:** [RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🟡 **Partially maintained:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
 - 🔴 **Inactive:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
