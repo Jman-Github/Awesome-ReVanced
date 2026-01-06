@@ -80,7 +80,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
     - 🔴 **Inactive:** [Integrations](https://github.com/rufusin/revanced-integrations)
 - 🟢 **Active:** [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 - 🟢 **Active:** [Morphe Patches (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-patches)
-- 🟢 **Active:** [PatchReddit by wchill (uses Morphe)](https://github.com/wchill/patcheddit)
+- 🟢 **Active:** [Patcheddit by wchill (uses Morphe)](https://github.com/wchill/patcheddit)
 - 🟢 **Active:** [RVX-Morphed by wchill (uses Morphe)](https://github.com/wchill/rvx-morphed)
 - 🟡 **Partially maintained:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 - 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
