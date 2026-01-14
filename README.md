@@ -120,6 +120,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
     - 🔴 **Inactive:** [Site Source](https://github.com/kazimmt/kazimmt.github.io)
     - 🔴 **Inactive:** [Telegram](https://t.me/ReVanced_MMT)
 - 🔴 **Inactive:** [ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
+
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
 - 🟢 **Active:** [Universal ReVanced Manager](https://github.com/Jman-Github/universal-revanced-manager)
@@ -161,6 +162,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [AmpleReVanced API](https://github.com/AmpleReVanced/revanced-api)
 - 🟢 **Active:** [AmpleReVanced CLI](https://github.com/AmpleReVanced/revanced-cli)
 - 🟢 **Active:** [MicroG-RE (MorpheApp)](https://github.com/MorpheApp/MicroG-RE)
+- 🟢 **Active:** [Revancify-Xisr)](https://github.com/Xisrr1/Revancify-Xisr)
 - 🟡 **Partially maintained:** [RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🟡 **Partially maintained:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
 - 🔴 **Inactive:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
