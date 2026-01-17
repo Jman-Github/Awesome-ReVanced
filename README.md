@@ -54,7 +54,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Anddea](https://github.com/anddea/revanced-patches)
     - 📥 **Archived:** [Integrations](https://github.com/anddea/revanced-integrations)
 - 🟢 **Active:** [Piko](https://github.com/crimera/piko)
-    - 🟢 **Active:** [Integrations](https://github.com/crimera/revanced-integrations)
+    - 🟡 **Partially maintained:** [Integrations](https://github.com/crimera/revanced-integrations)
 - 🟢 **Active:** [jkennethcarino](https://github.com/jkennethcarino/privacy-revanced-patches)
     - 📥 **Archived:** [Integrations](https://github.com/jkennethcarino/privacy-revanced-integrations)
 - 🟢 **Active:** [kitadai31](https://github.com/kitadai31/revanced-patches-android6-7)
