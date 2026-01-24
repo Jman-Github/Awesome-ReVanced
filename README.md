@@ -129,7 +129,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Docker Py](https://github.com/nikhilbadyal/docker-py-revanced)
 - 🟢 **Active:** [Piko App Builds](https://github.com/crimera/twitter-apk)
 - 🟢 **Active:** [ReVanced Creator](https://github.com/XDream8/revanced-creator)
-- 🟢 **Active:** [krvstek RVX App Builds](https://github.com/krvstek/rvx-apks)
+- 🟢 **Active:** [krvstek RVX & Morphe App Builds](https://github.com/krvstek/uni-apks)
 - 🟢 **Active:** [LeddaZ ReVanced App Builds](https://github.com/LeddaZ/revanced-repo)
 - 🟢 **Active:** [App](https://github.com/LeddaZ/ReVancedUpdater)
 - 🟢 **Active:** [ReVanced Xposed](https://github.com/chsbuffer/RevancedXposed)
