@@ -84,6 +84,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
 - 🟢 **Active:** [IMXEren](https://github.com/imxeren/mix-patches)
 - 🟢 **Active:** [hoo-dles-morphed](https://github.com/hoo-dles/morphe-patches)
+- 🟢 **Active:** [Almewty](https://github.com/Almewty/my-morphe-patches)
 - 🟡 **Partially maintained:** [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 - 🟡 **Partially maintained:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 - 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
