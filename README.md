@@ -85,11 +85,11 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [IMXEren](https://github.com/imxeren/mix-patches)
 - 🟢 **Active:** [hoo-dles-morphed](https://github.com/hoo-dles/morphe-patches)
 - 🟢 **Active:** [Almewty](https://github.com/Almewty/my-morphe-patches)
+- 🟢 **Active:** [Anddea-Morphed ny wchill (uses Morphe)](https://github.com/wchill/anddea-rvx-morphed)
 - 🟡 **Partially maintained:** [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 - 🟡 **Partially maintained:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 - 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
-   
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
 - 🔴 **Inactive:** [ayushTNM](https://github.com/ayushTNM/gmscore-patches)
 - 🔴 **Inactive:** [Slenderman00](https://github.com/Slenderman00/revanced-patches-grindr)
