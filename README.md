@@ -170,7 +170,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟡 **Partially maintained:** [ReVanced Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
 - 🟡 **Partially maintained:** [RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
-- 🟡 **Partially maintained:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
+- 🔴 **Inactive:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
 - 🔴 **Inactive:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
 - 🔴 **Inactive:** [Obtainium Auto Update](https://rentry.co/revanced-auto-update)
 - 🔴 **Inactive:** [RVX MMT](https://github.com/kazimmt/RVX-MMT-module)
