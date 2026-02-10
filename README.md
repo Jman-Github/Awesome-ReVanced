@@ -165,7 +165,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [AmpleReVanced API](https://github.com/AmpleReVanced/revanced-api)
 - 🟢 **Active:** [AmpleReVanced CLI](https://github.com/AmpleReVanced/revanced-cli)
 - 🟢 **Active:** [MicroG-RE (MorpheApp)](https://github.com/MorpheApp/MicroG-RE)
-- 🟢 **Active:** [Revancify-Xisr)](https://github.com/Xisrr1/Revancify-Xisr)
+- 🟢 **Active:** [Revancify-Xisr](https://github.com/Xisrr1/Revancify-Xisr)
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
 - 🟡 **Partially maintained:** [ReVanced Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
