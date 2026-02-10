@@ -167,6 +167,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [MicroG-RE (MorpheApp)](https://github.com/MorpheApp/MicroG-RE)
 - 🟢 **Active:** [Revancify-Xisr)](https://github.com/Xisrr1/Revancify-Xisr)
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
+- 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
 - 🟡 **Partially maintained:** [ReVanced Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
 - 🟡 **Partially maintained:** [RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🔴 **Inactive:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
