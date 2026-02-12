@@ -67,7 +67,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Tosox](https://github.com/Tosox/revanced-patches)
 - 🟢 **Active:** [HZbutcoding](https://github.com/HZbutcoding/sn-patching)
 - 🟢 **Active:** [lluni](https://github.com/lluni/custom-revanced-patches)
-- 🟢 **Active:** [andronedev](https://github.com/andronedev/revanced-patches)
+- 🟢 **Active:** [andronedev](https://github.com/andronedev/morphe-patches)
 - 🟢 **Active:** [Aunali321](https://github.com/Aunali321/ReVancedExperiments)
 - 🟢 **Active:** [scrazzz](https://github.com/scrazzz/my-revanced-patches)
 - 🟢 **Active:** [bawr](https://github.com/bawr/revanced-patches)
