@@ -44,10 +44,10 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Manager APKMirror Plugin](https://github.com/ReVanced/revanced-manager-apkmirror-downloader)
 - 🟢 **Active:** [Gradle Plugin](https://github.com/ReVanced/revanced-patches-gradle-plugin)
 - 🟢 **Active:** [API](https://github.com/revanced/revanced-api)
+- 🟢 **Active:** [GmsCore](https://github.com/ReVanced/GmsCore)
+
 - 🟡 **Partially maintained:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
 - 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
-- 🔴 **Inactive:** [GmsCore](https://github.com/ReVanced/GmsCore)
-
 ## 🩹 Patches
 - 🟢 **Active:** [inotia00](https://github.com/inotia00/revanced-Patches)
     - 📥 **Archived:** [Integrations](https://github.com/inotia00/revanced-integrations)
