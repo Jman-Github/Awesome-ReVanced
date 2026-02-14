@@ -46,7 +46,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [API](https://github.com/revanced/revanced-api)
 - 🟢 **Active:** [GmsCore](https://github.com/ReVanced/GmsCore)
 
-- 🟡 **Partially maintained:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
+- 🔴 **Inactive:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
 - 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
 ## 🩹 Patches
 - 🟢 **Active:** [inotia00](https://github.com/inotia00/revanced-Patches)
