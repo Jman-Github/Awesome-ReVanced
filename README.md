@@ -45,7 +45,6 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Gradle Plugin](https://github.com/ReVanced/revanced-patches-gradle-plugin)
 - 🟢 **Active:** [API](https://github.com/revanced/revanced-api)
 - 🟢 **Active:** [GmsCore](https://github.com/ReVanced/GmsCore)
-
 - 🔴 **Inactive:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
 - 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
 ## 🩹 Patches
@@ -85,7 +84,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [IMXEren](https://github.com/imxeren/mix-patches)
 - 🟢 **Active:** [hoo-dles-morphed](https://github.com/hoo-dles/morphe-patches)
 - 🟢 **Active:** [Almewty](https://github.com/Almewty/my-morphe-patches)
-- 🟢 **Active:** [Anddea-Morphed ny wchill (uses Morphe)](https://github.com/wchill/anddea-rvx-morphed)
+- 🟢 **Active:** [Anddea-Morphed by wchill (uses Morphe)](https://github.com/wchill/anddea-rvx-morphed)
 - 🟢 **Active:** [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 - 🟢 **Active:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 - 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
@@ -168,6 +167,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Revancify-Xisr](https://github.com/Xisrr1/Revancify-Xisr)
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
+- 🟢 **Active:** [Morphe AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
 - 🟡 **Partially maintained:** [ReVanced Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
 - 🟡 **Partially maintained:** [RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🔴 **Inactive:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
