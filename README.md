@@ -87,6 +87,8 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Anddea-Morphed by wchill (uses Morphe)](https://github.com/wchill/anddea-rvx-morphed)
 - 🟢 **Active:** [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 - 🟢 **Active:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
+- 🟢 **Active:** [Adobo (uses Morphe)](https://github.com/jkennethcarino/adobo)
+- 🟢 **Active:** [De-ReVanced (uses Morphe)](https://github.com/RookieEnough/De-ReVanced)
 - 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
