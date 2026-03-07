@@ -47,6 +47,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [GmsCore](https://github.com/ReVanced/GmsCore)
 - 🔴 **Inactive:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
 - 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
+
 ## 🩹 Patches
 - 🟢 **Active:** [inotia00](https://github.com/inotia00/revanced-Patches)
     - 📥 **Archived:** [Integrations](https://github.com/inotia00/revanced-integrations)
@@ -89,6 +90,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 - 🟢 **Active:** [Adobo (uses Morphe)](https://github.com/jkennethcarino/adobo)
 - 🟢 **Active:** [De-ReVanced (uses Morphe)](https://github.com/RookieEnough/De-ReVanced)
+- 🟢 **Active:** [Alexvbp](https://github.com/Alexvbp/f1tv-patches)
 - 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
