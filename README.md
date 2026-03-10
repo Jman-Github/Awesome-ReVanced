@@ -49,8 +49,6 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
 
 ## 🩹 Patches
-- 🟢 **Active:** [inotia00](https://github.com/inotia00/revanced-Patches)
-    - 📥 **Archived:** [Integrations](https://github.com/inotia00/revanced-integrations)
 - 🟢 **Active:** [Anddea](https://github.com/anddea/revanced-patches)
     - 📥 **Archived:** [Integrations](https://github.com/anddea/revanced-integrations)
 - 🟢 **Active:** [Piko](https://github.com/crimera/piko)
@@ -108,6 +106,8 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
     - 🔴 **Inactive:** [Integrations](https://github.com/d4n3436/revanced-integrations)
 - 🔴 **Inactive:** [whyvl](https://github.com/Hepolise/LuckyToolPatches)
 - 🔴 **Inactive:** [Hepolise](https://github.com/whyvl/revanced-patches-repo)
+- 📥 **Archived:** [inotia00](https://github.com/inotia00/revanced-Patches)
+    - 📥 **Archived:** [Integrations](https://github.com/inotia00/revanced-integrations)
 - 📥 **Archived:** [hoo-dles](https://github.com/hoo-dles/revanced-custom-patches)
 - 📥 **Archived:** [wchill](https://github.com/wchill/revanced-patches)
 - 📥 **Archived:** [inotia00-arsclib](https://github.com/inotia00/revanced-patches-arsclib)
@@ -116,7 +116,6 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 
 ## 📚 Resources
 - 🟢 **Active:** [Database](https://github.com/Sappurit/Revanced-Database)
-- 🟢 **Active:** [Extended Documentation](https://github.com/inotia00/revanced-documentation)
 - 🟢 **Active:** [Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢 **Active:** [Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
     - 🟢 **Active:** [Integrations](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide)
@@ -128,6 +127,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
     - 🔴 **Inactive:** [Telegram](https://t.me/ReVanced_MMT)
 - 🔴 **Inactive:** [ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
 
+- 📥 **Archived:** [Extended Documentation](https://github.com/inotia00/revanced-documentation)
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
 - 🟢 **Active:** [Universal ReVanced Manager](https://github.com/Jman-Github/universal-revanced-manager)
@@ -148,7 +148,6 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [NoName‑exe's RVX App Builds](https://github.com/NoName-exe/revanced-extended)
 - 🟢 **Active:** [FiorenMas ReVanced App Builds](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root)
 - 🟢 **Active:** [Peternmuller Obtainium ReVanced App Builds](https://github.com/peternmuller/revanced-builder)
-- 🟢 **Active:** [RVX Builder](https://github.com/inotia00/rvx-builder)
 - 🟢 **Active:** [ReVanced Web Patcher](https://github.com/Aunali321/revanced-web-patcher-backend)
 - 🟢 **Active:** [Enhancify](https://github.com/Graywizard888/Enhancify)
 - 🟢 **Active:** [ReVanced External Bundles](https://github.com/brosssh/revanced-external-bundles)
@@ -165,13 +164,13 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [AmpleReVanced GitHub Organization](https://github.com/AmpleReVanced)
 - 🟢 **Active:** [AmpleReVanced Compose Manager](https://github.com/AmpleReVanced/revanced-manager-compose)
 - 🟢 **Active:** [AmpleReVanced Patcher](https://github.com/AmpleReVanced/revanced-patcher)
-- 🟢 **Active:** [AmpleReVanced API](https://github.com/AmpleReVanced/revanced-api)
 - 🟢 **Active:** [AmpleReVanced CLI](https://github.com/AmpleReVanced/revanced-cli)
 - 🟢 **Active:** [MicroG-RE (MorpheApp)](https://github.com/MorpheApp/MicroG-RE)
 - 🟢 **Active:** [Revancify-Xisr](https://github.com/Xisrr1/Revancify-Xisr)
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
 - 🟢 **Active:** [Morphe AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
+- 🟡 **Partially maintained:** [AmpleReVanced API](https://github.com/AmpleReVanced/revanced-api)
 - 🟡 **Partially maintained:** [ReVanced Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
 - 🟡 **Partially maintained:** [RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🔴 **Inactive:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
@@ -181,6 +180,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🔴 **Inactive:** [RVX GmsCore](https://github.com/YT-Advanced/GmsCore)
 - 🔴 **Inactive:** [RV Web Manager](https://github.com/exconvinced/revanced-web-app)
 - 🔴 **Inactive:** [Build Template](https://github.com/n0k0m3/revanced-build-template)
+- 📥 **Archived:** [RVX Builder](https://github.com/inotia00/rvx-builder)
 - 📥 **Archived:** [Mystery Manager Compose](https://github.com/MarcaDian/Mystery-manager)
 - 📥 **Archived:** [Patcher v22 CLI](https://github.com/LisoUseInAIKyrios/revanced-cli)
 - 📥 **Archived:** [Patcher v22](https://github.com/LisoUseInAIKyrios/revanced-patcher)
