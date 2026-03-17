@@ -57,6 +57,8 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [Alexvbp](https://github.com/Alexvbp/f1tv-patches)
 
 ## 📚 Resources
+- 🟢 **Active:** [Morphe Megathread](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/)
+- 🟢 **Active:** [ReVanced/Morphe Obtainium Guide](https://wispydocs.pages.dev/revanced-morphe-obtainium/)
 - 🟢 **Active:** [Database](https://github.com/Sappurit/Revanced-Database)
 - 🟢 **Active:** [Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢 **Active:** [Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
