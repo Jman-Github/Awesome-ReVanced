@@ -58,7 +58,7 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 
 ## 📚 Resources
 - 🟢 **Active:** [Database](https://github.com/Sappurit/Revanced-Database)
-- 🟢 **Active:** [Community Guides](https://github.com/Morphe-Extended-Community/Community-Guides)
+- 🟢 **Active:** [Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢 **Active:** [Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
     - 🟢 **Active:** [Integrations](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide)
 - 🟢 **Active:** [More Community Documentation](https://github.com/KobeW50/Morphe-Documentation)
