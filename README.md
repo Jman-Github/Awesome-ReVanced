@@ -55,9 +55,6 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [Anddea-Morphed by wchill](https://github.com/wchill/anddea-rvx-morphed)
 - 🟢 **Active:** [De-ReVanced](https://github.com/RookieEnough/De-ReVanced)
 - 🟢 **Active:** [Alexvbp](https://github.com/Alexvbp/f1tv-patches)
-- 📥 **Archived:** [inotia00](https://github.com/inotia00/revanced-Patches)
-    - 📥 **Archived:** [Integrations](https://github.com/inotia00/revanced-integrations)
-- 📥 **Archived:** [inotia00-arsclib](https://github.com/inotia00/revanced-patches-arsclib)
 
 ## 📚 Resources
 - 🟢 **Active:** [Database](https://github.com/Sappurit/Revanced-Database)
