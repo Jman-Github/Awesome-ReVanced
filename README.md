@@ -54,7 +54,6 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [Almewty](https://github.com/Almewty/my-morphe-patches)
 - 🟢 **Active:** [Anddea-Morphed by wchill](https://github.com/wchill/anddea-rvx-morphed)
 - 🟢 **Active:** [De-ReVanced](https://github.com/RookieEnough/De-ReVanced)
-- 🟢 **Active:** [Alexvbp](https://github.com/Alexvbp/f1tv-patches)
 
 ## 📚 Resources
 - 🟢 **Active:** [Morphe Megathread](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/)
