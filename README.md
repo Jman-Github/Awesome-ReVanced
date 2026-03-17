@@ -1,20 +1,18 @@
-# 💊 Awesome ReVanced
-![Awesome ReVanced logo](image.png)
-
-*Continuing the legacy of Vanced*
+# 💊 Awesome Morphe
+![Awesome Morphe logo](morphe_wordmark_dark.svg)
 
 # ❓ About
-A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources) and [projects](#-projects)! Do not be afraid to create an [issue](https://github.com/Jman-Github/awesome-revanced/issues) if you have any suggestions, questions or concerns for Awesome-ReVanced.
+A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) and [projects](#-projects)! Do not be afraid to create an [issue](https://github.com/OrdinaryPerson0/Awesome-Morphe/issues) if you have any suggestions, questions or concerns for Awesome-Morphe.
 
 # 📋 How to Use
  - Press command/ctrl + F to search for a keyword
  - Go through the Content Menu
 
 # 📝 Content Menu
-- [Official](#-official) — Official ReVanced projects, resources and patches
-- [Patches](#-patches) — ReVanced patch and integration repositories
+- [Official](#-official) — Official Morphe projects, resources and patches
+- [Patches](#-patches) — Morphe patch and integration repositories
 - [Resources](#-resources) — Documentation and information
-- [Projects](#-projects) — Community-created projects related to ReVanced
+- [Projects](#-projects) — Community-created projects related to Morphe
 
 # 🔑 Key
 * 🟢 **Active** - regularly updated
@@ -23,30 +21,25 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 * 📥 **Archived** - repository archived
 
 ## ✅ Official
-- 🟢 **Active:** [Github Organization Profile](https://github.com/ReVanced)
-- 🟢 **Active:** [Website](https://revanced.app/)
-    - 🟢 **Active:** [Website Source](https://github.com/ReVanced/revanced-website)
-- 🟢 **Active:** [X](https://x.com/revancedapp)
-- 🟢 **Active:** [Discord](https://discord.com/invite/rF2YcEjcrT)
-- 🟢 **Active:** [Reddit](https://www.reddit.com/r/revancedapp/)
-- 🟢 **Active:** [Telegram](https://t.me/app_revanced)
-- 🟢 **Active:** [YouTube](https://www.youtube.com/@ReVanced)
-- 🟢 **Active:** [Patches](https://github.com/revanced/revanced-patches)
-    - 📥 **Archived:** [Integrations](https://github.com/revanced/revanced-integrations)
-- 🟢 **Active:** [Manager](https://github.com/revanced/revanced-manager)
-- 🟢 **Active:** [Compose Manager](https://github.com/ReVanced/revanced-manager/tree/compose-dev)
-- 🟢 **Active:** [Patcher](https://github.com/revanced/revanced-patcher)
-- 🟢 **Active:** [Patches Template](https://github.com/ReVanced/revanced-patches-template)
-- 🟢 **Active:** [Documentation](https://github.com/ReVanced/revanced-documentation)
-- 🟢 **Active:** [Library](https://github.com/ReVanced/revanced-library)
-- 🟢 **Active:** [CLI](https://github.com/revanced/revanced-cli)
-- 🟢 **Active:** [Manager Plugin Template](https://github.com/ReVanced/revanced-manager-downloader-template)
-- 🟢 **Active:** [Manager APKMirror Plugin](https://github.com/ReVanced/revanced-manager-apkmirror-downloader)
-- 🟢 **Active:** [Gradle Plugin](https://github.com/ReVanced/revanced-patches-gradle-plugin)
-- 🟢 **Active:** [API](https://github.com/revanced/revanced-api)
-- 🟢 **Active:** [GmsCore](https://github.com/ReVanced/GmsCore)
-- 🔴 **Inactive:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
-- 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
+- 🟢 **Active:** [Github Organization Profile](https://github.com/MorpheApp)
+- 🟢 **Active:** [Website](https://morphe.software/)
+    - 🟢 **Active:** [Website Source](https://github.com/MorpheApp/morphe-website)
+- 🟢 **Active:** [X](https://x.com/MorpheApp)
+- 🟢 **Active:** [Reddit](https://reddit.com/r/MorpheApp)
+- 🟢 **Active:** [Patches](https://github.com/MorpheApp/morphe-patches)
+- 🟢 **Active:** [Manager](https://github.com/MorpheApp/morphe-manager)
+- 🟢 **Active:** [Patcher](https://github.com/MorpheApp/morphe-patcher)
+- 🟢 **Active:** [Patches Template](https://github.com/MorpheApp/morphe-patches-template)
+- 🟢 **Active:** [Documentation](https://github.com/MorpheApp/morphe-documentation)
+- 🟢 **Active:** [Library](https://github.com/MorpheApp/morphe-library)
+- 🟢 **Active:** [CLI](https://github.com/MorpheApp/morphe-cli)
+- 🟢 **Active:** [Gradle Plugin](https://github.com/MorpheApp/morphe-patches-gradle-plugin)
+- 🟢 **Active:** [MicroG-RE](https://github.com/MorpheApp/MicroG-RE)
+- 🟢 **Active:** [ARSCLib](https://github.com/MorpheApp/ARSCLib)
+- 🟢 **Active:** [ejs](https://github.com/MorpheApp/ejs)
+- 📥 **Archived:** [Mystery Manager Compose](https://github.com/MarcaDian/Mystery-manager)
+- 📥 **Archived:** [Patcher v22 CLI](https://github.com/LisoUseInAIKyrios/revanced-cli)
+- 📥 **Archived:** [Patcher v22](https://github.com/LisoUseInAIKyrios/revanced-patcher)
 
 ## 🩹 Patches
 - 🟢 **Active:** [Anddea](https://github.com/anddea/revanced-patches)
@@ -66,16 +59,15 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [HZbutcoding](https://github.com/HZbutcoding/sn-patching)
 - 🟢 **Active:** [lluni](https://github.com/lluni/custom-revanced-patches)
 - 🟢 **Active:** [andronedev](https://github.com/andronedev/morphe-patches)
-- 🟢 **Active:** [Aunali321](https://github.com/Aunali321/ReVancedExperiments)
+- 🟢 **Active:** [Aunali321](https://github.com/Aunali321/MorpheExperiments)
 - 🟢 **Active:** [scrazzz](https://github.com/scrazzz/my-revanced-patches)
 - 🟢 **Active:** [bawr](https://github.com/bawr/revanced-patches)
-- 🟢 **Active:** [AmpleReVanced](https://github.com/AmpleReVanced/revanced-patches)
+- 🟢 **Active:** [AmpleMorphe](https://github.com/AmpleMorphe/revanced-patches)
 - 🟢 **Active:** [liaralabs](https://github.com/liaralabs/revanced-patches)
 - 🟢 **Active:** [areteruhiro](https://github.com/areteruhiro/linegms)
 - 🟢 **Active:** [lennyRBLX](https://github.com/lennyRBLX/apk-patches)
 - 🟢 **Active:** [Rufusin](https://github.com/rufusin/revanced-patches)
     - 🔴 **Inactive:** [Integrations](https://github.com/rufusin/revanced-integrations)
-- 🟢 **Active:** [Morphe Patches (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-patches)
 - 🟢 **Active:** [Patcheddit by wchill (uses Morphe)](https://github.com/wchill/patcheddit)
 - 🟢 **Active:** [RVX-Morphed by wchill (uses Morphe)](https://github.com/wchill/rvx-morphed)
 - 🟢 **Active:** [blazskufca](https://github.com/blazskufca/revanced-patch)
@@ -87,7 +79,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)
 - 🟢 **Active:** [BiliRoamingX (fork)](https://github.com/sti-233/BiliRoamingX)
 - 🟢 **Active:** [Adobo (uses Morphe)](https://github.com/jkennethcarino/adobo)
-- 🟢 **Active:** [De-ReVanced (uses Morphe)](https://github.com/RookieEnough/De-ReVanced)
+- 🟢 **Active:** [De-Morphe (uses Morphe)](https://github.com/RookieEnough/De-Morphe)
 - 🟢 **Active:** [Alexvbp](https://github.com/Alexvbp/f1tv-patches)
 - 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
@@ -116,28 +108,28 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 
 ## 📚 Resources
 - 🟢 **Active:** [Database](https://github.com/Sappurit/Revanced-Database)
-- 🟢 **Active:** [Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
+- 🟢 **Active:** [Community Guides](https://github.com/Morphe-Extended-Community/Community-Guides)
 - 🟢 **Active:** [Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
     - 🟢 **Active:** [Integrations](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide)
-- 🟢 **Active:** [More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
-- 🟢 **Active:** [Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
-- 🟢 **Active:** [Morphe Documentation (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-documentation)
+- 🟢 **Active:** [More Community Documentation](https://github.com/KobeW50/Morphe-Documentation)
+- 🟢 **Active:** [Patches Documentation](https://github.com/Morphe-Extended-Community/Patches-Documentation)
+- 🟢 **Active:** [Morphe Documentation (Rebranded Morphe)](https://github.com/MorpheApp/morphe-documentation)
 - 🔴 **Inactive:** [Kazimmt's Website](https://kazimmt.github.io)
     - 🔴 **Inactive:** [Site Source](https://github.com/kazimmt/kazimmt.github.io)
-    - 🔴 **Inactive:** [Telegram](https://t.me/ReVanced_MMT)
-- 🔴 **Inactive:** [ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
+    - 🔴 **Inactive:** [Telegram](https://t.me/Morphe_MMT)
+- 🔴 **Inactive:** [Morphe For Dummies](https://github.com/Francesco146/revanced-for-dummies)
 
 - 📥 **Archived:** [Extended Documentation](https://github.com/inotia00/revanced-documentation)
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
-- 🟢 **Active:** [Universal ReVanced Manager](https://github.com/Jman-Github/universal-revanced-manager)
+- 🟢 **Active:** [URV Manager](https://github.com/Jman-Github/universal-revanced-manager)
 - 🟢 **Active:** [Magisk Module](https://github.com/j-hc/revanced-magisk-module)
 - 🟢 **Active:** [Docker Py](https://github.com/nikhilbadyal/docker-py-revanced)
 - 🟢 **Active:** [Piko App Builds](https://github.com/crimera/twitter-apk)
-- 🟢 **Active:** [ReVanced Creator](https://github.com/XDream8/revanced-creator)
+- 🟢 **Active:** [Morphe Creator](https://github.com/XDream8/revanced-creator)
 - 🟢 **Active:** [krvstek RVX & Morphe App Builds](https://github.com/krvstek/uni-apks)
-- 🟢 **Active:** [LeddaZ ReVanced App Builds](https://github.com/LeddaZ/revanced-repo)
-- 🟢 **Active:** [App](https://github.com/LeddaZ/ReVancedUpdater)
+- 🟢 **Active:** [LeddaZ Morphe App Builds](https://github.com/LeddaZ/revanced-repo)
+- 🟢 **Active:** [App](https://github.com/LeddaZ/MorpheUpdater)
 - 🟢 **Active:** [ReVanced Xposed](https://github.com/chsbuffer/RevancedXposed)
 - 🟢 **Active:** [AT-YT](https://github.com/Zenlua/AT-YT)
 - 🟢 **Active:** [ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged)
@@ -151,27 +143,10 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [ReVanced Web Patcher](https://github.com/Aunali321/revanced-web-patcher-backend)
 - 🟢 **Active:** [Enhancify](https://github.com/Graywizard888/Enhancify)
 - 🟢 **Active:** [ReVanced External Bundles](https://github.com/brosssh/revanced-external-bundles)
-- 🟢 **Active:** [MorpheApp GitHub Organization (Rebranded ReVanced)](https://github.com/MorpheApp)
-    - 🟢 **Active:** [Website](https://morphe.software/)
-    - 🟢 **Active:** [Reddit](https://www.reddit.com/r/MorpheApp)
-    - 🟢 **Active:** [X](https://x.com/MorpheApp)
-- 🟢 **Active:** [Morphe CLI (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-cli)
-- 🟢 **Active:** [Morphe Patcher (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-patcher)
-- 🟢 **Active:** [Morphe Manager (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-manager)
-- 🟢 **Active:** [Morphe Gradle Plugin (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-patches-gradle-plugin)
-- 🟢 **Active:** [Morphe Library (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-library)
-- 🟢 **Active:** [Morphe Website Source (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-website)
-- 🟢 **Active:** [AmpleReVanced GitHub Organization](https://github.com/AmpleReVanced)
-- 🟢 **Active:** [AmpleReVanced Compose Manager](https://github.com/AmpleReVanced/revanced-manager-compose)
-- 🟢 **Active:** [AmpleReVanced Patcher](https://github.com/AmpleReVanced/revanced-patcher)
-- 🟢 **Active:** [AmpleReVanced CLI](https://github.com/AmpleReVanced/revanced-cli)
-- 🟢 **Active:** [MicroG-RE (MorpheApp)](https://github.com/MorpheApp/MicroG-RE)
 - 🟢 **Active:** [Revancify-Xisr](https://github.com/Xisrr1/Revancify-Xisr)
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
 - 🟢 **Active:** [Morphe AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
-- 🟡 **Partially maintained:** [AmpleReVanced API](https://github.com/AmpleReVanced/revanced-api)
-- 🟡 **Partially maintained:** [ReVanced Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
 - 🟡 **Partially maintained:** [RVX Manager (Android 5 - 7)](https://github.com/kitadai31/revanced-manager-android5-7)
 - 🔴 **Inactive:** [RVX Lite](https://github.com/selfmusing/RVX-Lite-Modules)
 - 🔴 **Inactive:** [JADX-ReVanced](https://github.com/valonsodev/jadx-revanced)
@@ -181,12 +156,9 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🔴 **Inactive:** [RV Web Manager](https://github.com/exconvinced/revanced-web-app)
 - 🔴 **Inactive:** [Build Template](https://github.com/n0k0m3/revanced-build-template)
 - 📥 **Archived:** [RVX Builder](https://github.com/inotia00/rvx-builder)
-- 📥 **Archived:** [Mystery Manager Compose](https://github.com/MarcaDian/Mystery-manager)
-- 📥 **Archived:** [Patcher v22 CLI](https://github.com/LisoUseInAIKyrios/revanced-cli)
-- 📥 **Archived:** [Patcher v22](https://github.com/LisoUseInAIKyrios/revanced-patcher)
 - 📥 **Archived:** [RVX Manager](https://github.com/inotia00/revanced-manager)
 - 📥 **Archived:** [RVX CLI Arsclib](https://github.com/inotia00/revanced-cli-arsclib)
 - 📥 **Archived:** [Revancify](https://github.com/decipher3114/Revancify)
 - 📥 **Archived:** [Auto CLI](https://github.com/taku-nm/auto-cli)
-- 📥 **Archived:** [ReVanced-Builder](https://github.com/reisxd/revanced-builder)
+- 📥 **Archived:** [revanced-Builder](https://github.com/reisxd/revanced-builder)
 - 📥 **Archived:** [Prevanced Manager](https://github.com/prevanced/prevanced-manager)
