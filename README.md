@@ -119,7 +119,6 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides)
 - 🟢 **Active:** [Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide)
     - 🟢 **Active:** [Integrations](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide)
-- 🟢 **Active:** [More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
 - 🟢 **Active:** [Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
 - 🟢 **Active:** [Morphe Documentation (Rebranded ReVanced)](https://github.com/MorpheApp/morphe-documentation)
 - 🔴 **Inactive:** [Kazimmt's Website](https://kazimmt.github.io)
@@ -127,6 +126,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
     - 🔴 **Inactive:** [Telegram](https://t.me/ReVanced_MMT)
 - 🔴 **Inactive:** [ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
 
+- 📥 **Archived:** [More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
 - 📥 **Archived:** [Extended Documentation](https://github.com/inotia00/revanced-documentation)
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
