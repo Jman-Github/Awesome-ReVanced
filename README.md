@@ -66,7 +66,7 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
 - 🔴 **Inactive:** [Kazimmt's Website](https://kazimmt.github.io)
     - 🔴 **Inactive:** [Site Source](https://github.com/kazimmt/kazimmt.github.io)
-    - 🔴 **Inactive:** [Telegram](https://t.me/Morphe_MMT)
+    - 🔴 **Inactive:** [Telegram](https://t.me/ReVanced_MMT)
 - 🔴 **Inactive:** [ReVanced For Dummies](https://github.com/Francesco146/revanced-for-dummies)
 
 - 📥 **Archived:** [Extended Documentation](https://github.com/inotia00/revanced-documentation)
