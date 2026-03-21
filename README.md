@@ -89,7 +89,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Adobo (uses Morphe)](https://github.com/jkennethcarino/adobo)
 - 🟢 **Active:** [De-ReVanced (uses Morphe)](https://github.com/RookieEnough/De-ReVanced)
 - 🟢 **Active:** [Alexvbp](https://github.com/Alexvbp/f1tv-patches)
-- 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
+- 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
 - 🔴 **Inactive:** [ayushTNM](https://github.com/ayushTNM/gmscore-patches)
