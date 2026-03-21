@@ -89,6 +89,8 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Adobo (uses Morphe)](https://github.com/jkennethcarino/adobo)
 - 🟢 **Active:** [De-ReVanced (uses Morphe)](https://github.com/RookieEnough/De-ReVanced)
 - 🟢 **Active:** [Alexvbp](https://github.com/Alexvbp/f1tv-patches)
+- 🟢 **Active:** [Docbt](https://github.com/Docbt/patched-up)
+- 🟢 **Active:** [LoV432](https://github.com/LoV432/revanced-patches)
 - 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
@@ -128,6 +130,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 
 - 📥 **Archived:** [More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
 - 📥 **Archived:** [Extended Documentation](https://github.com/inotia00/revanced-documentation)
+
 ## 🔨 Projects
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
 - 🟢 **Active:** [Universal ReVanced Manager](https://github.com/Jman-Github/universal-revanced-manager)
@@ -169,6 +172,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
 - 🟢 **Active:** [Morphe AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
+- 🟢 **Active:** [ReVanced Morphe Builder](https://github.com/nvbangg/revanced-morphe-builder)
 - 🟡 **Partially maintained:** [ReVanced Web Patcher](https://github.com/Aunali321/revanced-web-patcher-backend)
 - 🟡 **Partially maintained:** [AmpleReVanced API](https://github.com/AmpleReVanced/revanced-api)
 - 🟡 **Partially maintained:** [ReVanced Facebook Messenger Builds](https://github.com/mentalblank/Messenger-Revanced)
