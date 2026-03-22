@@ -54,6 +54,7 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [Almewty](https://github.com/Almewty/my-morphe-patches)
 - 🟢 **Active:** [Anddea-Morphed by wchill](https://github.com/wchill/anddea-rvx-morphed)
 - 🟢 **Active:** [De-ReVanced](https://github.com/RookieEnough/De-ReVanced)
+- 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
 
 ## 📚 Resources
 - 🟢 **Active:** [Morphe Megathread](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/)
@@ -86,3 +87,4 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
 - 🟢 **Active:** [Morphe AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
+- 🟡 **Partially maintained:** [ReVanced Web Patcher](https://github.com/Aunali321/revanced-web-patcher-backend)
