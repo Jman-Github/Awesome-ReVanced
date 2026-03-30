@@ -92,6 +92,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Docbt](https://github.com/Docbt/patched-up)
 - 🟢 **Active:** [LoV432](https://github.com/LoV432/revanced-patches)
 - 🟢 **Active:** [PixelPusher247](https://github.com/PixelPusher247/morphe-patches)
+- 🟢 **Active:** [rabilrbl](https://github.com/rabilrbl/fluffy-patches)
 - 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
