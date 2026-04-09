@@ -93,7 +93,8 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [PixelPusher247 (uses Morphe)](https://github.com/PixelPusher247/morphe-patches)
 - 🟢 **Active:** [rabilrbl (uses Morphe)](https://github.com/rabilrbl/fluffy-patches)
 - 🟢 **Active:** [jasonwu1994 (uses Morphe)](https://github.com/jasonwu1994/Gboard-patches)
-- 🟢 **Active:** [RealCyberwash (uses Morphe)](https://github.com/RealCyberwash/max-patches)
+- 🟢 **Active:** [RealCyberwash (uses Morphe)](https://github.com/RealCyberwash/max-patches)\
+- 🟢 **Active:** [Paresh-Maheshwari](https://github.com/Paresh-Maheshwari/paresh-patches)
 - 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
