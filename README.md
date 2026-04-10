@@ -129,6 +129,8 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
     - 🟢 **Active:** [Integrations](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide)
 - 🟢 **Active:** [Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation)
 - 🟢 **Active:** [Morphe Documentation](https://github.com/MorpheApp/morphe-documentation)
+- 🟢 **Active:** [Patch Explorer](https://paresh-maheshwari.github.io/patch-explorer/)
+    - 🟢 **Active:** [Source](https://github.com/Paresh-Maheshwari/patch-explorer)
 - 🔴 **Inactive:** [Kazimmt's Website](https://kazimmt.github.io)
     - 🟢 **Active:** [Site Source](https://github.com/kazimmt/kazimmt.github.io)
     - 🔴 **Inactive:** [Telegram](https://t.me/ReVanced_MMT)
