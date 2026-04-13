@@ -96,6 +96,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [RealCyberwash (uses Morphe)](https://github.com/RealCyberwash/max-patches)
 - 🟢 **Active:** [Paresh-Maheshwari](https://github.com/Paresh-Maheshwari/paresh-patches)
 - 🟢 **Active:** [aniketshinde007 (uses Morphe)](https://github.com/aniketshinde007/morphe-patches-ani)
+- 🟢 **Active:** [binarymend](https://github.com/binarymend/morphe-patches)
 - 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
