@@ -40,11 +40,11 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Documentation](https://github.com/ReVanced/revanced-documentation)
 - 🟢 **Active:** [Library](https://github.com/ReVanced/revanced-library)
 - 🟢 **Active:** [CLI](https://github.com/revanced/revanced-cli)
-- 🟢 **Active:** [Manager Plugin Template](https://github.com/ReVanced/revanced-manager-downloader-template)
 - 🟢 **Active:** [Manager APKMirror Plugin](https://github.com/ReVanced/revanced-manager-apkmirror-downloader)
 - 🟢 **Active:** [Gradle Plugin](https://github.com/ReVanced/revanced-patches-gradle-plugin)
 - 🟢 **Active:** [API](https://github.com/revanced/revanced-api)
 - 🟢 **Active:** [GmsCore](https://github.com/ReVanced/GmsCore)
+- 🟡 **Partially maintained:** [Manager Plugin Template](https://github.com/ReVanced/revanced-manager-downloader-template)
 - 🔴 **Inactive:** [Manager Play Store Plugin](https://github.com/ReVanced/revanced-manager-play-store-downloader)
 - 🔴 **Inactive:** [Web Manager](https://github.com/ReVanced/revanced-web-manager)
 
