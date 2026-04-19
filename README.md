@@ -98,6 +98,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [aniketshinde007 (uses Morphe)](https://github.com/aniketshinde007/morphe-patches-ani)
 - 🟢 **Active:** [binarymend (uses Morphe)](https://github.com/binarymend/morphe-patches)
 - 🟢 **Active:** [polka-bear (uses Morphe)](https://github.com/polka-bear/morphe-patches)
+- 🟢 **Active:** [ajstrick81 (uses Morphe)](https://github.com/ajstrick81/peacock-atv-patches)
 - 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
