@@ -102,6 +102,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [eyalm2000 (uses Morphe & ReVanced)](https://github.com/eyalm2000/tidal-debug-menu)
 - 🟢 **Active:** [vladon (uses Morphe)](https://github.com/vladon/morphe-patches-navi)
 - 🟢 **Active:** [RaiuSky (uses Morphe)](https://github.com/RaiuSky/patches-repo)
+- 🟢 **Active:** [ariecos (uses Morphe)](https://github.com/ariecos/gemini-patches)
 - 🔴 **Inactive:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
     - 📥 **Archived:** [Integrations](https://github.com/YT-Advanced/ReX-integrations)
 - 🔴 **Inactive:** [nk521](https://github.com/nk521/revanced-patches)
