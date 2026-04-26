@@ -78,7 +78,7 @@ A curated list of awesome ReVanced [patches](#-patches), [resources](#-resources
 - 🟢 **Active:** [Morphe Patches](https://github.com/MorpheApp/morphe-patches)
 - 🟢 **Active:** [Patcheddit by wchill (uses Morphe)](https://github.com/wchill/patcheddit)
 - 🟢 **Active:** [blazskufca](https://github.com/blazskufca/revanced-patch)
-- 🟢 **Active:** [BholeyKaBhakt](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
+- 🟢 **Active:** [BholeyKaBhakt (uses Morphe)](https://github.com/BholeyKaBhakt/revanced-patches-xtra)
 - 🟢 **Active:** [IMXEren](https://github.com/imxeren/mix-patches)
 - 🟢 **Active:** [hoo-dles-morphed](https://github.com/hoo-dles/morphe-patches)
 - 🟢 **Active:** [Almewty](https://github.com/Almewty/my-morphe-patches)
