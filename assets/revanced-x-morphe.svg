@@ -1,0 +1,55 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ReVanced x Morphe</title>
+  <desc id="desc">The ReVanced and Morphe icons side by side with a large X between them.</desc>
+
+  <defs>
+    <linearGradient id="crossGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F04E98" />
+      <stop offset="0.5" stop-color="#5F65D4" />
+      <stop offset="1" stop-color="#00AFAE" />
+    </linearGradient>
+    <linearGradient id="revancedRing" x1="480" y1="0" x2="480" y2="960" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E44D9D" />
+      <stop offset="0.48" stop-color="#8D5ECC" />
+      <stop offset="1" stop-color="#4A98F2" />
+    </linearGradient>
+    <linearGradient id="revancedDiamond" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -60.1151 60.1151 0 129.816 83.2658)">
+      <stop offset="0" stop-color="#F04E98" />
+      <stop offset="0.5" stop-color="#5F65D4" />
+      <stop offset="1" stop-color="#4E98F0" />
+    </linearGradient>
+    <linearGradient id="morpheLetter" x1="83" y1="216" x2="429" y2="216" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E5AA8" />
+      <stop offset="1" stop-color="#00AFAE" />
+    </linearGradient>
+    <linearGradient id="morpheLeft" x1="83" y1="258" x2="163" y2="258" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#244AA6" />
+      <stop offset="1" stop-color="#1D6DAF" />
+    </linearGradient>
+    <linearGradient id="morpheRight" x1="350" y1="282" x2="429" y2="282" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00AFAE" />
+      <stop offset="1" stop-color="#08C7BD" />
+    </linearGradient>
+  </defs>
+
+  <g id="revanced-icon" transform="translate(55 30) scale(0.208333)">
+    <circle cx="480" cy="480" r="480" fill="url(#revancedRing)" />
+    <circle cx="480" cy="480" r="437" fill="#1C1C1C" />
+    <g transform="scale(3.75)">
+      <g transform="translate(0 -0.0493818)">
+        <path d="M172.397,86.408C172.871,85.326 172.767,84.078 172.12,83.089C171.474,82.1 170.372,81.504 169.191,81.504L164.658,81.504C163.666,81.504 162.768,82.091 162.369,82.999C158.379,92.086 137.322,140.046 130.289,156.064C129.89,156.972 128.992,157.559 128,157.559C127.008,157.559 126.11,156.972 125.711,156.064C118.678,140.046 97.62,92.086 93.631,82.999C93.232,82.091 92.334,81.504 91.342,81.504L86.809,81.504C85.628,81.504 84.526,82.1 83.879,83.089C83.233,84.078 83.129,85.326 83.603,86.408C91.141,103.614 116.202,160.815 121.322,172.499C121.88,173.772 123.138,174.595 124.528,174.595L131.472,174.595C132.862,174.595 134.12,173.772 134.678,172.499C139.797,160.815 164.859,103.614 172.397,86.408Z" fill="#FFFFFF" />
+      </g>
+      <g transform="matrix(-1.54007 0 0 -1.54007 327.925 209.689)">
+        <path d="M128.129,54.017C128.477,53.414 129.12,53.043 129.816,53.043C130.512,53.043 131.155,53.414 131.503,54.017C135.035,60.134 143.171,74.227 146.703,80.344C147.051,80.947 147.051,81.689 146.703,82.292C146.355,82.894 145.712,83.266 145.016,83.266L114.616,83.266C113.92,83.266 113.277,82.894 112.929,82.292C112.581,81.689 112.581,80.947 112.929,80.344C116.461,74.227 124.597,60.134 128.129,54.017Z" fill="url(#revancedDiamond)" />
+      </g>
+    </g>
+  </g>
+
+  <text x="450" y="156" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="104" font-weight="900" fill="url(#crossGradient)" letter-spacing="2">X</text>
+
+  <g id="morphe-icon" transform="translate(622 -5) scale(0.52)">
+    <path d="M83,149c0,-22.644 18.356,-41 41,-41c22.644,0 41,18.356 41,41v220c0,22.644 -18.356,41 -41,41c-22.644,0 -41,-18.356 -41,-41z" fill="url(#morpheLeft)" />
+    <path d="M348,289c8,-43 39,-82 80,-101v181c0,22.644 -18.356,41 -41,41c-22.644,0 -41,-18.356 -41,-41v-73c0,-2.349 0.753,-4.981 2,-7z" fill="url(#morpheRight)" />
+    <path d="M125,108c39,0 62,46 83,76c16,22 27,42 48,42c21,0 33,-20 48,-42c21,-30 44,-76 83,-76c30,0 45,17 45,55c-39,5 -62,47 -85,80c-25,35 -45,80 -91,80c-46,0 -66,-45 -91,-80c-22,-31 -46,-74 -82,-80c0,-38 15,-55 42,-55z" fill="url(#morpheLetter)" />
+  </g>
+</svg>

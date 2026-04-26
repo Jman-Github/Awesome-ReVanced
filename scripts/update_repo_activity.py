@@ -16,18 +16,20 @@ from urllib import error as urlerror
 from urllib import request
 
 STATUS_MAP = {
-    "active": {"emoji": "\U0001f7e2", "label": "Active"},
-    "partially": {"emoji": "\U0001f7e1", "label": "Partially maintained"},
-    "inactive": {"emoji": "\U0001f534", "label": "Inactive"},
-    "archived": {"emoji": "\U0001f4e5", "label": "Archived"},
+    "active": {"label": "Active", "slug": "active", "color": "brightgreen"},
+    "partially": {"label": "Partially maintained", "slug": "partial", "color": "yellow"},
+    "inactive": {"label": "Inactive", "slug": "inactive", "color": "red"},
+    "archived": {"label": "Archived", "slug": "archived", "color": "red"},
 }
 
 GITHUB_RE = re.compile(r"https://github\.com/(?P<owner>[\w.-]+)/(?P<repo>[\w.-]+)")
-LINE_RE = re.compile(
-    r"^(?P<prefix>\s*-\s*)(?:(?P<emoji>\S+)\s+)?\*\*(?P<label>[^*]+?)\*\*(?P<ws>\s*)(?P<rest>.+)$"
+STATUS_BADGE_RE = re.compile(
+    r"!\[(?P<label>Active|Partially maintained|Inactive|Archived)\]"
+    r"\(https://img\.shields\.io/badge/status-(?P<slug>active|partial|partially|inactive|archived)-"
+    r"(?P<color>brightgreen|yellow|red)\)"
 )
 TOP_LEVEL_BULLET_RE = re.compile(r"^-\s+")
-SECTION_KEYWORDS = ("official", "patches", "resources", "projects")
+SECTION_KEYWORDS = ("official", "patches", "resources", "projects", "builder")
 STATUS_ORDER = ("active", "partially", "inactive", "archived")
 
 
@@ -122,18 +124,36 @@ def find_repo_slug(line: str) -> Optional[str]:
     return f"{owner}/{repo}" if repo else None
 
 
-def apply_status_to_line(line: str, status: str) -> str:
+def status_badge(status: str) -> str:
     status_info = STATUS_MAP[status]
-    match = LINE_RE.match(line)
+    return (
+        f"![{status_info['label']}]"
+        f"(https://img.shields.io/badge/status-{status_info['slug']}-{status_info['color']})"
+    )
+
+
+def status_from_badge(line: str) -> Optional[str]:
+    match = STATUS_BADGE_RE.search(line)
     if not match:
+        return None
+    label = match.group("label").lower()
+    slug = match.group("slug").lower()
+    for key, info in STATUS_MAP.items():
+        if label == info["label"].lower() or slug == info["slug"]:
+            return key
+    return None
+
+
+def apply_status_to_line(line: str, status: str) -> str:
+    if not STATUS_BADGE_RE.search(line):
         return line
-    ws = match.group("ws") or " "
-    rest = match.group("rest")
-    return f"{match.group('prefix')}{status_info['emoji']} **{status_info['label']}:**{ws}{rest}"
+    return STATUS_BADGE_RE.sub(status_badge(status), line, count=1)
 
 
 def iter_repo_lines(lines: Iterable[str]):
     for idx, line in enumerate(lines):
+        if status_from_badge(line) is None:
+            continue
         slug = find_repo_slug(line)
         if slug:
             yield idx, line, slug
@@ -192,14 +212,7 @@ def sort_blocks(blocks: list[list[str]]) -> list[list[str]]:
 def determine_block_status(block: list[str]) -> Optional[str]:
     if not block:
         return None
-    match = LINE_RE.match(block[0])
-    if not match:
-        return None
-    label = match.group("label").strip().rstrip(":").lower()
-    for key, info in STATUS_MAP.items():
-        if info["label"].lower() == label:
-            return key
-    return None
+    return status_from_badge(block[0])
 
 
 def reorder_sections(lines: list[str]) -> list[str]:
@@ -233,6 +246,7 @@ def main() -> int:
         return 1
     client = GithubClient()
     text = path.read_text(encoding="utf-8")
+    newline = "\r\n" if "\r\n" in text else "\n"
     lines = text.splitlines()
     now = dt.datetime.now(tz=dt.timezone.utc)
 
@@ -265,7 +279,7 @@ def main() -> int:
     if regrouped:
         logging.info("Reordered sections to maintain status grouping")
 
-    new_contents = "\n".join(lines) + "\n"
+    new_contents = newline.join(lines) + newline
 
     if args.dry_run:
         logging.info("Dry run: %s lines would change", len(updates))

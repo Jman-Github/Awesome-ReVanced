@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Update README activity indicators
+      - name: Update README activity badges
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_repo_activity.py
@@ -28,6 +28,6 @@ jobs:
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -am "chore: refresh repo activity statuses"
+            git commit -am "chore: refresh README activity badges"
             git push
           fi
