@@ -1,12 +1,19 @@
 # [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
 > [!NOTE]
-> 💊 A curated list of ReVanced & Morphe resources, patch repositories, tools, builders, and community projects.
-> 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.
-> 👉 Suggestions, corrections, and new entries are welcome in [issues](https://github.com/Jman-Github/Awesome-ReVanced/issues).
-> 🧭 Status badges are refreshed by the repository activity workflow.
+> 💊 A curated list of ReVanced & Morphe resources, patch repositories, tools, builders, and community projects.   
+> 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.   
+> 👉 Suggestions, corrections, and new entries are welcome in [issues](https://github.com/Jman-Github/Awesome-ReVanced/issues).   
+> 🧭 Status badges are refreshed by the repository activity workflow.   
 
-**Jump to:**
-[✅ Official ReVanced](#-official-revanced) • [✅ Official Morphe](#-official-morphe) • [📚 Resources](#-resources) • [🩹 Patches](#-patches) • [🔨 Projects](#-projects) • [⬇️ Builder](#️-builder) • [🙏 Credits](#-credits) • [⭐ Star History](#-star-history)
+**Jump to:**   
+• [✅ Official ReVanced](#-official-revanced)   
+• [✅ Official Morphe](#-official-morphe)   
+• [📚 Resources](#-resources)   
+• [🩹 Patches](#-patches)   
+• [🔨 Projects](#-projects)    
+• [⬇️ Builder](#️-builder)   
+• [🙏 Credits](#-credits)   
+• [⭐ Star History](#-star-history)   
 
 <div align="center">
   <img width="640" src="assets/revanced-x-morphe.svg" alt="ReVanced x Morphe" />
@@ -76,7 +83,7 @@ Official Morphe channels, core repositories, and maintained tooling.
 
 Documentation, indexes, troubleshooting material, and external reference pages.
 
-- [![Database](https://img.shields.io/github/last-commit/Sappurit/Revanced-Database?label=Database&logo=github)](https://github.com/Sappurit/Revanced-Database) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![Awesome for Morphe](https://img.shields.io/github/last-commit/nvbangg/awesome-for-morphe?label=Awesome%20for%20Morphe&logo=github)](https://github.com/nvbangg/awesome-for-morphe) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![Community Guides](https://img.shields.io/github/last-commit/ReVanced-Extended-Community/Community-Guides?label=Community%20Guides&logo=github)](https://github.com/ReVanced-Extended-Community/Community-Guides) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![Troubleshooting Guide](https://img.shields.io/badge/Sodawithoutsparkles-Troubleshooting%20Guide-gray)](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide) ![Active](https://img.shields.io/badge/status-active-brightgreen)
   - [![Troubleshooting Source](https://img.shields.io/github/last-commit/SodaWithoutSparkles/revanced-troubleshooting-guide?label=Troubleshooting%20Source&logo=github)](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide) ![Active](https://img.shields.io/badge/status-active-brightgreen)
@@ -194,7 +201,6 @@ Managers, patching tools, plugin ecosystems, and adjacent ReVanced/Morphe projec
 - [![Aunali321 Manager Plugins](https://img.shields.io/github/last-commit/Aunali321/revanced-downloader-plugins?label=Aunali321%20Manager%20Plugins&logo=github)](https://github.com/Aunali321/revanced-downloader-plugins) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![Enhancify](https://img.shields.io/github/last-commit/Graywizard888/Enhancify?label=Enhancify&logo=github)](https://github.com/Graywizard888/Enhancify) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![ReVanced External Bundles](https://img.shields.io/github/last-commit/brosssh/revanced-external-bundles?label=ReVanced%20External%20Bundles&logo=github)](https://github.com/brosssh/revanced-external-bundles) ![Active](https://img.shields.io/badge/status-active-brightgreen)
-- [![Awesome for Morphe](https://img.shields.io/github/last-commit/nvbangg/awesome-for-morphe?label=Awesome%20for%20Morphe&logo=github)](https://github.com/nvbangg/awesome-for-morphe) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![AmpleReVanced GitHub Organization](https://img.shields.io/badge/GitHub-AmpleReVanced%20GitHub%20Organization-gray?logo=github&labelColor=0F1419)](https://github.com/AmpleReVanced) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![AmpleReVanced Patcher](https://img.shields.io/github/last-commit/AmpleReVanced/revanced-patcher?label=AmpleReVanced%20Patcher&logo=github)](https://github.com/AmpleReVanced/revanced-patcher) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![AmpleReVanced CLI](https://img.shields.io/github/last-commit/AmpleReVanced/revanced-cli?label=AmpleReVanced%20CLI&logo=github)](https://github.com/AmpleReVanced/revanced-cli) ![Active](https://img.shields.io/badge/status-active-brightgreen)
