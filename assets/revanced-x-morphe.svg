@@ -1,6 +1,6 @@
-<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">ReVanced x Morphe</title>
-  <desc id="desc">The ReVanced and Morphe icons side by side with a large X between them.</desc>
+  <desc id="desc">The ReVanced and Morphe icons side by side with a large X between them and the text Awesome ReVanced below.</desc>
 
   <defs>
     <linearGradient id="crossGradient" x1="0" y1="0" x2="1" y2="1">
@@ -52,4 +52,6 @@
     <path d="M348,289c8,-43 39,-82 80,-101v181c0,22.644 -18.356,41 -41,41c-22.644,0 -41,-18.356 -41,-41v-73c0,-2.349 0.753,-4.981 2,-7z" fill="url(#morpheRight)" />
     <path d="M125,108c39,0 62,46 83,76c16,22 27,42 48,42c21,0 33,-20 48,-42c21,-30 44,-76 83,-76c30,0 45,17 45,55c-39,5 -62,47 -85,80c-25,35 -45,80 -91,80c-46,0 -66,-45 -91,-80c-22,-31 -46,-74 -82,-80c0,-38 15,-55 42,-55z" fill="url(#morpheLetter)" />
   </g>
+
+  <text x="450" y="304" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="50" font-weight="800" fill="url(#crossGradient)" letter-spacing="0.5">Awesome ReVanced</text>
 </svg>
