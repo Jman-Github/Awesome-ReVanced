@@ -1,4 +1,4 @@
-# [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
+﻿# [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
 > [!NOTE]
 > 💊 A curated list of ReVanced & Morphe resources, patch repositories, tools, builders, and community projects.   
 > 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.   
@@ -197,6 +197,8 @@ Patch repositories and related integration repositories.
 - [![HZbutcoding](https://img.shields.io/github/last-commit/HZbutcoding/sn-patching?label=HZbutcoding&logo=github)](https://github.com/HZbutcoding/sn-patching) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
 - [![lluni](https://img.shields.io/github/last-commit/lluni/custom-revanced-patches?label=lluni&logo=github)](https://github.com/lluni/custom-revanced-patches) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
 - [![liaralabs](https://img.shields.io/github/last-commit/liaralabs/revanced-patches?label=liaralabs&logo=github)](https://github.com/liaralabs/revanced-patches) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
+- [![Morphe Portal Patch (uses Morphe)](https://img.shields.io/github/last-commit/andronedev/morphe-portal-patch?label=Morphe%20Portal%20Patch%20(uses%20Morphe)&logo=github)](https://github.com/andronedev/morphe-portal-patch) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![TS Patches](https://img.shields.io/github/last-commit/osirisad/ts-patches?label=TS%20Patches&logo=github)](https://github.com/osirisad/ts-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![YT-Advanced](https://img.shields.io/github/last-commit/YT-Advanced/ReX-patches?label=YT--Advanced&logo=github)](https://github.com/YT-Advanced/ReX-patches) ![Inactive](https://img.shields.io/badge/status-inactive-red)
   - [![ReX Integrations](https://img.shields.io/github/last-commit/YT-Advanced/ReX-integrations?label=ReX%20Integrations&logo=github)](https://github.com/YT-Advanced/ReX-integrations) ![Archived](https://img.shields.io/badge/status-archived-red)
 - [![ayushTNM](https://img.shields.io/github/last-commit/ayushTNM/gmscore-patches?label=ayushTNM&logo=github)](https://github.com/ayushTNM/gmscore-patches) ![Inactive](https://img.shields.io/badge/status-inactive-red)
