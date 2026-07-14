@@ -325,10 +325,4 @@ Automated build repositories, modules, scripts, and packaged app distributions.
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=Jman-Github%2FAwesome-ReVanced&type=date&legend=top-left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Jman-Github/Awesome-ReVanced&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Jman-Github/Awesome-ReVanced&type=date&legend=top-left" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Jman-Github/Awesome-ReVanced&type=date&legend=top-left" />
-  </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/chart?repos=Jman-Github/Awesome-ReVanced&type=date&legend=top-left&sealed_token=hLoJcUnofe9Ym8RaC6NO7xekl35Euk9-VWsSqmQSFwPQsIovU_u18-9kEmS4xGPTgrOOLnI0QwfQDSS1GWAjBXPEAbAMnf6uW6ko28KgGhI0X_moYvvffA)](https://www.star-history.com/?repos=Jman-Github%2FAwesome-ReVanced&type=date&legend=top-left)
