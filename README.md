@@ -87,7 +87,7 @@ Documentation, indexes, troubleshooting material, and external reference pages.
 
 - [![Awesome for Morphe](https://img.shields.io/github/last-commit/nvbangg/awesome-for-morphe?label=Awesome%20for%20Morphe&logo=github)](https://github.com/nvbangg/awesome-for-morphe) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![Troubleshooting Guide](https://img.shields.io/badge/Sodawithoutsparkles-Troubleshooting%20Guide-gray)](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) ![Active](https://img.shields.io/badge/status-active-brightgreen)
-  - [![Troubleshooting Source](https://img.shields.io/github/last-commit/SodaWithoutSparkles/revanced-troubleshooting-guide?label=Troubleshooting%20Source&logo=github)](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Troubleshooting Source](https://img.shields.io/github/last-commit/SodaWithoutSparkles/revanced-troubleshooting-guide?label=Troubleshooting%20Source&logo=github)](https://github.com/SodaWithoutSparkles/revanced-troubleshooting-guide) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
 - [![Morphe Documentation](https://img.shields.io/github/last-commit/MorpheApp/morphe-documentation?label=Morphe%20Documentation&logo=github)](https://github.com/MorpheApp/morphe-documentation) ![Active](https://img.shields.io/badge/status-active-brightgreen)
   - [Basic patching guide](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/guide.md)
   - [Frequently asked questions](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/questions.md)
