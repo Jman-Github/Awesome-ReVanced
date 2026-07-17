@@ -1,4 +1,4 @@
-﻿# [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
+# [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
 > [!NOTE]
 > 💊 A curated list of ReVanced & Morphe resources, patch repositories, tools, builders, and community projects.   
 > 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.   
@@ -244,6 +244,9 @@ Patch repositories and related integration repositories.
 - [![Google Maps MicroG Patches (uses Morphe)](https://img.shields.io/github/last-commit/fangkampanat/gmaps-patches?label=Google%20Maps%20MicroG%20Patches%20(uses%20Morphe)&logo=github)](https://github.com/fangkampanat/gmaps-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![RIVanced Universal Patches (uses Morphe)](https://img.shields.io/github/last-commit/rushiranpise/RI-Vanced-Universal-Morphe-Patches?label=RIVanced%20Universal%20Patches%20(uses%20Morphe)&logo=github)](https://github.com/rushiranpise/RI-Vanced-Universal-Morphe-Patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![variablenine Patches (uses Morphe)](https://img.shields.io/github/last-commit/variablenine/morphe-patches?label=variablenine%20Patches%20(uses%20Morphe)&logo=github)](https://github.com/variablenine/morphe-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![Stylus (uses Morphe)](https://img.shields.io/github/last-commit/ch3thanhs/stylus?label=Stylus%20(uses%20Morphe)&logo=github)](https://github.com/ch3thanhs/stylus) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![hxreborn Patches (uses Morphe)](https://img.shields.io/github/last-commit/hxreborn/morphe-patches?label=hxreborn%20Patches%20(uses%20Morphe)&logo=github)](https://github.com/hxreborn/morphe-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![Ikura Patches (uses Morphe)](https://img.shields.io/github/last-commit/Ikuradachi/ikura-patches?label=Ikura%20Patches%20(uses%20Morphe)&logo=github)](https://github.com/Ikuradachi/ikura-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![LoV432](https://img.shields.io/github/last-commit/LoV432/revanced-patches?label=LoV432&logo=github)](https://github.com/LoV432/revanced-patches) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
 - [![kitadai31](https://img.shields.io/github/last-commit/kitadai31/revanced-patches-android6-7?label=kitadai31&logo=github)](https://github.com/kitadai31/revanced-patches-android6-7) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
 - [![Anddea-Morphed by wchill (uses Morphe)](https://img.shields.io/github/last-commit/wchill/anddea-rvx-morphed?label=Anddea--Morphed%20by%20wchill%20(uses%20Morphe)&logo=github)](https://github.com/wchill/anddea-rvx-morphed) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
