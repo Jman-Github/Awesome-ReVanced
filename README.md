@@ -1,4 +1,4 @@
-# [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
+﻿# [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
 > [!NOTE]
 > 💊 A curated list of ReVanced & Morphe resources, patch repositories, tools, builders, and community projects.   
 > 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.   
@@ -379,4 +379,4 @@ Automated build repositories, modules, scripts, and packaged app distributions.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=Jman-Github/Awesome-ReVanced&type=date&legend=top-left&sealed_token=MP-hAMCzDTZ5mDAB__KggcoHOjqJ1OgVUr8b6xmxRULt5RZIMsRFadrWmmuxLf1_ixBIi-JYV0TPQhC4SRejpupDcdZPCpILZhCMmM8AOzis57kGAMljXw)](https://www.star-history.com/?repos=Jman-Github%2FAwesome-ReVanced&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVancedtype=date&legend=top-left)](https://star-history.dera.page/#Jman-Github/Awesome-ReVanced&type=date&legend=top-left)
