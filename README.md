@@ -410,4 +410,10 @@ Automated build repositories, modules, scripts, and packaged app distributions.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVancedtype=date&legend=top-left)](https://star-history.dera.page/#Jman-Github/Awesome-ReVanced&type=date&legend=top-left)
+<a href="https://star-history.dera.page/#Jman-Github/Awesome-ReVanced">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVanced&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVanced" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVanced" />
+ </picture>
+</a>
