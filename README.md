@@ -33,7 +33,7 @@
 Official ReVanced channels, core repositories, and maintained tooling.
 
 - [![GitHub Organization](https://img.shields.io/badge/GitHub-ReVanced-gray?logo=github&labelColor=0F1419)](https://github.com/ReVanced) ![Active](https://img.shields.io/badge/status-active-brightgreen)
-  - [![Website Source](https://img.shields.io/github/last-commit/ReVanced/revanced-website?label=Website%20Source&logo=github)](https://github.com/ReVanced/revanced-website) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Website Source](https://img.shields.io/github/last-commit/ReVanced/revanced-website?label=Website%20Source&logo=github)](https://github.com/ReVanced/revanced-website) ![Partially maintained](https://img.shields.io/badge/status-partial-yellow)
   - [![ReVanced Patches (GitLab)](https://img.shields.io/gitlab/last-commit/ReVanced/revanced-patches?label=ReVanced%20Patches%20(GitLab)&logo=gitlab)](https://gitlab.com/ReVanced/revanced-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
   - [![ReVanced Integrations](https://img.shields.io/github/last-commit/revanced/revanced-integrations?label=ReVanced%20Integrations&logo=github)](https://github.com/revanced/revanced-integrations) ![Archived](https://img.shields.io/badge/status-archived-red)
   - [![ReVanced Manager](https://img.shields.io/github/last-commit/revanced/revanced-manager?label=ReVanced%20Manager&logo=github)](https://github.com/revanced/revanced-manager) ![Active](https://img.shields.io/badge/status-active-brightgreen)
