@@ -3,7 +3,7 @@
 > 💊 A curated directory of Android patching resources across ReVanced, Morphe, and Reseam, including patches, tools, builders, and community projects. \
 > 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.   
 > 👉 Suggestions, corrections, and new entries are welcome in [issues](https://github.com/Jman-Github/Awesome-Android-Patching/issues).   
-> 🧭 GitHub status badges are refreshed by the repository activity workflow; other hosts use their own commit badges. \
+> 🧭 GitHub status badges are refreshed by the repository activity workflow; other hosts use their own commit badges.
 
 **Jump to:**   
 • [✅ Official ReVanced](#-official-revanced)   
