@@ -1,8 +1,8 @@
-# [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
+# [Awesome Android Patching](https://github.com/Jman-Github/Awesome-Android-Patching)
 > [!NOTE]
-> 💊 A curated list of ReVanced, Morphe & Reseam resources, patch repositories, tools, builders, and community projects. \
+> 💊 A curated directory of Android patching resources across ReVanced, Morphe, and Reseam, including patches, tools, builders, and community projects. \
 > 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.   
-> 👉 Suggestions, corrections, and new entries are welcome in [issues](https://github.com/Jman-Github/Awesome-ReVanced/issues).   
+> 👉 Suggestions, corrections, and new entries are welcome in [issues](https://github.com/Jman-Github/Awesome-Android-Patching/issues).   
 > 🧭 GitHub status badges are refreshed by the repository activity workflow; other hosts use their own commit badges. \
 
 **Jump to:**   
@@ -17,7 +17,7 @@
 • [⭐ Star History](#-star-history)   
 
 <div align="center">
-  <img width="640" src="assets/revanced-x-morphe.svg" alt="ReVanced x Morphe" />
+  <img width="640" src="assets/awesome-android-patching.svg" alt="ReVanced x Morphe x Reseam" />
 </div>
 
 **Status:**
@@ -671,10 +671,10 @@ Automated build repositories, modules, scripts, and packaged app distributions.
 
 ## ⭐ Star History
 
-<a href="https://star-history.dera.page/#Jman-Github/Awesome-ReVanced">
+<a href="https://star-history.dera.page/#Jman-Github/Awesome-Android-Patching">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVanced&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVanced" />
-   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-ReVanced" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-Android-Patching&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-Android-Patching" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Jman-Github/Awesome-Android-Patching" />
  </picture>
 </a>
