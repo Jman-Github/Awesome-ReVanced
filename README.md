@@ -84,10 +84,20 @@ Official Morphe channels, core repositories, and maintained tooling.
 
 ## ✅ Official Reseam
 
-Official Reseam website and patch repository, hosted on the Reseam Git service.
+Official Reseam website, patching tools, and supporting repositories hosted on the Reseam Forgejo service, with GitHub mirrors where available.
 
 - [![Reseam Website](https://img.shields.io/badge/Website-reseam.app-gray)](https://reseam.app/) ![Active](https://img.shields.io/badge/status-active-brightgreen)
-- [![Reseam Patches (Forgejo)](https://img.shields.io/gitea/last-commit/reseam/patches?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Patches%20%28Forgejo%29&logo=gitea)](https://git.reseam.app/reseam/patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![Reseam Forgejo Organization](https://img.shields.io/badge/Forgejo-Reseam-gray?logo=forgejo)](https://git.reseam.app/reseam) [GitHub organization](https://github.com/Reseam) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam Patches (Forgejo)](https://img.shields.io/gitea/last-commit/reseam/patches?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Patches%20%28Forgejo%29&logo=gitea)](https://git.reseam.app/reseam/patches) [GitHub mirror](https://github.com/Reseam/patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam Manager](https://img.shields.io/gitea/last-commit/reseam/manager?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Manager&logo=gitea)](https://git.reseam.app/reseam/manager) [GitHub mirror](https://github.com/Reseam/manager) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam Core](https://img.shields.io/gitea/last-commit/reseam/reseam?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Core&logo=gitea)](https://git.reseam.app/reseam/reseam) [GitHub mirror](https://github.com/Reseam/reseam) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam Website Source](https://img.shields.io/gitea/last-commit/reseam/website?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Website%20Source&logo=gitea)](https://git.reseam.app/reseam/website) [GitHub mirror](https://github.com/Reseam/website) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam Patches Template](https://img.shields.io/gitea/last-commit/reseam/patches-template?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Patches%20Template&logo=gitea)](https://git.reseam.app/reseam/patches-template) [GitHub mirror](https://github.com/Reseam/patches-template) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam API](https://img.shields.io/gitea/last-commit/reseam/api?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20API&logo=gitea)](https://git.reseam.app/reseam/api) [GitHub mirror](https://github.com/Reseam/api) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam Bot](https://img.shields.io/gitea/last-commit/reseam/bot?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Bot&logo=gitea)](https://git.reseam.app/reseam/bot) [GitHub mirror](https://github.com/Reseam/bot) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam GmsCore](https://img.shields.io/gitea/last-commit/reseam/gmscore?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20GmsCore&logo=gitea)](https://git.reseam.app/reseam/gmscore) _(no public GitHub mirror)_ ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam CI](https://img.shields.io/gitea/last-commit/reseam/ci?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20CI&logo=gitea)](https://git.reseam.app/reseam/ci) _(no public GitHub mirror)_ ![Active](https://img.shields.io/badge/status-active-brightgreen)
+  - [![Reseam Relay](https://img.shields.io/gitea/last-commit/reseam/relay?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Relay&logo=gitea)](https://git.reseam.app/reseam/relay) _(no public GitHub mirror)_ ![Active](https://img.shields.io/badge/status-active-brightgreen)
 
 ## 📚 Resources
 
