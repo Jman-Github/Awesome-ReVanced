@@ -1,13 +1,14 @@
 # [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
 > [!NOTE]
-> 💊 A curated list of ReVanced & Morphe resources, patch repositories, tools, builders, and community projects.   
+> 💊 A curated list of ReVanced, Morphe & Reseam resources, patch repositories, tools, builders, and community projects. \
 > 🔍 Use browser search to find a project, app, maintainer, or patch family quickly.   
 > 👉 Suggestions, corrections, and new entries are welcome in [issues](https://github.com/Jman-Github/Awesome-ReVanced/issues).   
-> 🧭 Status badges are refreshed by the repository activity workflow.   
+> 🧭 GitHub status badges are refreshed by the repository activity workflow; other hosts use their own commit badges. \
 
 **Jump to:**   
 • [✅ Official ReVanced](#-official-revanced)   
 • [✅ Official Morphe](#-official-morphe)   
+• [✅ Official Reseam](#-official-reseam) \
 • [📚 Resources](#-resources)   
 • [🩹 Patches](#-patches)   
 • [🔨 Projects](#-projects)    
@@ -81,6 +82,13 @@ Official Morphe channels, core repositories, and maintained tooling.
 - [![Morphe Crowdin](https://img.shields.io/badge/Crowdin-morphe-gray)](https://crowdin.com/project/morphe) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![Morphe OpenCollective](https://img.shields.io/badge/OpenCollective-morpheapp-gray)](https://opencollective.com/morpheapp) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 
+## ✅ Official Reseam
+
+Official Reseam website and patch repository, hosted on the Reseam Git service.
+
+- [![Reseam Website](https://img.shields.io/badge/Website-reseam.app-gray)](https://reseam.app/) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![Reseam Patches (Forgejo)](https://img.shields.io/gitea/last-commit/reseam/patches?gitea_url=https%3A%2F%2Fgit.reseam.app&label=Reseam%20Patches%20%28Forgejo%29&logo=gitea)](https://git.reseam.app/reseam/patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+
 ## 📚 Resources
 
 Documentation, indexes, troubleshooting material, and external reference pages.
@@ -127,7 +135,7 @@ Documentation, indexes, troubleshooting material, and external reference pages.
 
 ## 🩹 Patches
 
-Patch repositories and related integration repositories.
+ReVanced, Morphe, and Reseam patch repositories and related integrations.
 
 - [![Anddea (uses Morphe)](https://img.shields.io/github/last-commit/anddea/revanced-patches?label=Anddea(uses%20Morphe)&logo=github)](https://github.com/anddea/revanced-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
   - [![Anddea Integrations](https://img.shields.io/github/last-commit/anddea/revanced-integrations?label=Anddea%20Integrations&logo=github)](https://github.com/anddea/revanced-integrations) ![Archived](https://img.shields.io/badge/status-archived-red)
@@ -514,6 +522,7 @@ Patch repositories and related integration repositories.
 - [![Morphe Catppuccin (uses Morphe)](https://img.shields.io/github/last-commit/titandrive/morphe-catppuccin?label=Morphe%20Catppuccin%20(uses%20Morphe)&logo=github)](https://github.com/titandrive/morphe-catppuccin) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![Spotify TV Crossfade (uses Morphe)](https://img.shields.io/github/last-commit/ethan-manny/spotify-tv-crossfade?label=Spotify%20TV%20Crossfade%20(uses%20Morphe)&logo=github)](https://github.com/ethan-manny/spotify-tv-crossfade) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![BaconReader Reseam Patches (uses Reseam)](https://img.shields.io/github/last-commit/JoanComasFdz/baconreader-reseam-patches?label=BaconReader%20Reseam%20Patches%20(uses%20Reseam)&logo=github)](https://github.com/JoanComasFdz/baconreader-reseam-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
+- [![madkarmaa Reseam Patches (uses Reseam)](https://img.shields.io/github/last-commit/madkarmaa/reseam-patches?label=madkarmaa%20Reseam%20Patches%20(uses%20Reseam)&logo=github)](https://github.com/madkarmaa/reseam-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![BaconReader Morphe Patches (uses Morphe)](https://img.shields.io/github/last-commit/JoanComasFdz/baconreader-morphe-patches?label=BaconReader%20Morphe%20Patches%20(uses%20Morphe)&logo=github)](https://github.com/JoanComasFdz/baconreader-morphe-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![YouTube Music Lyrics (uses Morphe)](https://img.shields.io/github/last-commit/BDCrusher/ytmusic-lyrics?label=YouTube%20Music%20Lyrics%20(uses%20Morphe)&logo=github)](https://github.com/BDCrusher/ytmusic-lyrics) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![jagjordi Patches (uses Morphe)](https://img.shields.io/github/last-commit/jagjordi/morphe-patches?label=jagjordi%20Patches%20(uses%20Morphe)&logo=github)](https://github.com/jagjordi/morphe-patches) ![Active](https://img.shields.io/badge/status-active-brightgreen)
@@ -587,7 +596,7 @@ Patch repositories and related integration repositories.
 
 ## 🔨 Projects
 
-Managers, patching tools, plugin ecosystems, and adjacent ReVanced/Morphe projects.
+Managers, patching tools, plugin ecosystems, and adjacent ReVanced, Morphe, and Reseam projects.
 
 - [![ReVanced Patch Bundles](https://img.shields.io/github/last-commit/Jman-Github/ReVanced-Patch-Bundles?label=ReVanced%20Patch%20Bundles&logo=github)](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ![Active](https://img.shields.io/badge/status-active-brightgreen)
 - [![Universal ReVanced Manager](https://img.shields.io/github/last-commit/Jman-Github/Universal-ReVanced-Manager?label=Universal%20ReVanced%20Manager&logo=github)](https://github.com/Jman-Github/Universal-ReVanced-Manager) ![Active](https://img.shields.io/badge/status-active-brightgreen)
